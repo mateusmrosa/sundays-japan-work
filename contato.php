@@ -51,120 +51,35 @@
 	<section class="section bg-transparent position-relative border-0 m-0 p-0">
 		<div class="container custom-container-background custom-z-index-1 py-5">
 			<div class="row position-relative z-index-1 pt-5-5">
-				<div class="col">
+				<div class="row py-4 mb-3">
+					<div class="col-lg-6 pb-4 pb-lg-0">
 
-					<form class="contact-form custom-form-style-1" action="php/contact-form.php" method="POST">
-						<div class="contact-form-success alert alert-success d-none mt-4">
-							<strong>Success!</strong> Your message has been sent to us.
-						</div>
+						<p class="text-4-5 pe-lg-2 text-dark font-weight-bold">Rua José levy Guedes, n°155</p>
+						<ul class="list list-unstyled">
+							<li class="d-flex align-items-center mb-3">
+								<i class="icon icon-envelope text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
+								<a href="mailto:porto@insurance.com" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">sundaysjapanwork@gmail.com </a>
+							</li>
+							<li class="d-flex align-items-center mb-3">
+								<i class="icon icon-phone text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
+								<a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5"> (18) 99737-0033 | 3222-4299</a>
+							</li>
+						</ul>
 
-						<div class="contact-form-error alert alert-danger d-none mt-4">
-							<strong>Error!</strong> There was an error sending your message.
-							<span class="mail-error-message text-1 d-block"></span>
-						</div>
-
-						<div class="row row-gutter-sm">
-							<div class="form-group col-lg-6 mb-4">
-								<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required placeholder="Your Name">
-							</div>
-							<div class="form-group col-lg-6 mb-4">
-								<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
-							</div>
-						</div>
-						<div class="row row-gutter-sm">
-							<div class="form-group col-lg-6 mb-4">
-								<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required placeholder="Your Name">
-							</div>
-							<div class="form-group col-lg-6 mb-4">
-								<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" required placeholder="Subject">
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col mb-4">
-								<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message" required placeholder="Your Message"></textarea>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col mb-3">
-								<button type="submit" class="btn btn-secondary btn-rounded border-0 font-weight-bold text-3 btn-px-5 py-3" data-loading-text="Loading...">SEND MESSAGE</button>
-							</div>
-						</div>
-					</form>
-
-					<hr class="my-5">
-
-					<h2 class="text-color-dark font-weight-medium text-8 mt-5 mb-3">Our <strong>Locations</strong></h2>
-
-					<p class="text-4 line-height-8 mb-4">Donec velit magna, consectetur at suscipit eu, dapibus vel odio. Mauris ac nulla at ligula interdum ullamcorper. Nunc mattis eros nec eros dictum, nec molestie metus auctor.</p>
-
-					<div class="row py-4 mb-3">
-						<div class="col-lg-6 pb-4 pb-lg-0">
-
-							<p class="text-4-5 pe-lg-2 text-dark font-weight-bold">123 Porto Drive, Suite 10B, Vista, Kansas, 99999</p>
-							<ul class="list list-unstyled">
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-envelope text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="mailto:porto@insurance.com" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">porto@insurance.com</a>
-								</li>
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-phone text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">800-123-4567</a>
-								</li>
-							</ul>
-
-							<hr class="my-5">
-
-							<p class="text-4-5 pe-lg-2 text-dark font-weight-bold">123 Porto Drive, Suite 10B, Vista, Kentucky, 99999</p>
-							<ul class="list list-unstyled">
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-envelope text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="mailto:porto@insurance.com" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">porto@insurance.com</a>
-								</li>
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-phone text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">800-123-4567</a>
-								</li>
-							</ul>
-
-						</div>
-						<div class="col-lg-6">
-							<div id="googlemapsAnimatedPin" class="google-map mt-0 mb-0" style="height: 400px;"></div>
-						</div>
 					</div>
-
+					<div class="col-lg-6">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3696.2094846108253!2d-51.414508785580594!3d-22.117987215758664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9493f416639bd6cd%3A0x1ca1abfc50564249!2sR.%20Jos%C3%A9%20Levy%20Guedes%2C%20155%20-%20Jardim%20das%20Rosas%2C%20Pres.%20Prudente%20-%20SP%2C%2019060-260!5e0!3m2!1spt-BR!2sbr!4v1667330033621!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					</div>
 				</div>
+
 			</div>
 		</div>
 	</section>
-
-	<section class="section section-height-3 bg-primary position-relative z-index-1 border-0 m-0">
-		<div class="container">
-			<div class="row align-items-center gy-5">
-				<div class="col-xl-7 text-center text-xl-start">
-					<h3 class="text-color-light font-weight-medium text-4 mb-1">LOOKING FOR AFFORDABLE INSURANCE?</h3>
-					<h2 class="text-color-light font-weight-bold mb-1">Get Insurance Online and Save Up To 20%!</h2>
-					<p class="text-color-light font-weight-semibold opacity-8 text-4 mb-0">Surprisigly great rates, get started right now. </p>
-				</div>
-				<div class="col-xl-5">
-					<div class="d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-xl-end">
-						<div class="d-inline-flex align-items-center mb-4 mb-sm-0">
-							<i class="icons icon-phone text-7 text-color-light position-relative bottom-2"></i>
-							<div class="ps-2">
-								<span class="d-block text-2 font-weight-medium text-color-light line-height-1">CALL US NOW</span>
-								<strong class="text-4"><a href="tel:+1234567890" class="text-color-light text-decoration-none">800-123-4567</a></strong>
-							</div>
-						</div>
-						<div class="custom-divider px-3 me-3 ms-5-5 d-none d-sm-block"></div>
-						<a href="#" class="btn btn-light btn-rounded font-weight-bold border-0 text-color-dark text-3 px-5 btn-py-3">GET STARTED</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	<?php require_once('./horario-atendimento.php'); ?>
 
 </div>
 
-<?php require_once('./layout/footer.php')?>
+<?php require_once('./layout/footer.php') ?>
 </body>
 
 </html>

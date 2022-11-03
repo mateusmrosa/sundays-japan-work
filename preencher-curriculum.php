@@ -42,10 +42,6 @@
 
 			<div class="row text-center text-md-start py-2">
 				<div class="col p-relative bottom-5">
-					<!-- <ul class="breadcrumb d-block text-4 opacity-8 text-default mb-0">
-						<li><a href="#" class="text-decoration-none text-default">Home</a></li>
-						<li class="active">Preencher Cirriculum</li>
-					</ul> -->
 					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Preencher Curriculum</h1>
 				</div>
 			</div>
@@ -56,8 +52,6 @@
 		<div class="container custom-container-background custom-z-index-1 py-5">
 			<div class="row position-relative z-index-1 pt-5-5">
 				<div class="col">
-
-
 					<p class="text-color-dark text-8 mb-4-5">Preencha o formulário de <strong>curriculum</strong></p>
 					<form class="contact-form custom-form-style-1" action="php/contact-form.php" method="POST">
 						<div class="contact-form-success alert alert-success d-none mt-4">
@@ -70,10 +64,16 @@
 						</div>
 
 						<div class="row row-gutter-sm">
-							<div class="form-group col-lg-6 mb-4">
+							<div class="form-group col-lg-3 mb-4">
 								<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required placeholder="Your Name">
 							</div>
-							<div class="form-group col-lg-6 mb-4">
+							<div class="form-group col-lg-3 mb-4">
+								<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
+							</div>
+							<div class="form-group col-lg-3 mb-4">
+								<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
+							</div>
+							<div class="form-group col-lg-3 mb-4">
 								<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
 							</div>
 						</div>
@@ -92,7 +92,7 @@
 						</div>
 						<div class="row">
 							<div class="form-group col mb-3">
-								<button type="submit" class="btn btn-secondary btn-rounded border-0 font-weight-bold text-3 btn-px-5 py-3" data-loading-text="Loading...">SEND MESSAGE</button>
+								<button type="submit" class="btn btn-secondary btn-rounded border-0 font-weight-bold text-3 btn-px-5 py-3" onclick="teste()" data-loading-text="Loading...">SEND MESSAGE</button>
 							</div>
 						</div>
 					</form>

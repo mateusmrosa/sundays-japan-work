@@ -83,35 +83,10 @@
                         </ul>
                     </div>
                     <div class="col-lg-6">
-                        <!-- <h4 class="text-color-dark font-weight-bold mb-3">Insurance Products</h4>
-                        <ul class="list list-unstyled columns-lg-2">
-                            <li><a href="#" class="text-color-grey text-color-hover-primary">Home Insurance</a></li>
-                            <li><a href="#" class="text-color-grey text-color-hover-primary">Travel Insurance</a></li>
-                            <li><a href="#" class="text-color-grey text-color-hover-primary">Life Insurance</a></li>
-                            <li><a href="#" class="text-color-grey text-color-hover-primary">Vehicle Insurance</a></li>
-                            <li><a href="#" class="text-color-grey text-color-hover-primary">Business Insurance</a></li>
-                        </ul> -->
+                        
                     </div>
                 </div>
-                <!-- <div class="row">
-                    <div class="col">
-                        <div class="alert alert-success d-none" id="newsletterSuccess">
-                            <strong>Success!</strong> You've been added to our email list.
-                        </div>
-                        <div class="alert alert-danger d-none" id="newsletterError"></div>
-                        <div class="d-flex flex-column flex-lg-row align-items-start align-items-lg-center">
-                            <h4 class="text-color-dark ws-nowrap me-3 mb-3 mb-lg-0">Subscribe to Newsletter:</h4>
-                            <form id="newsletterForm" class="form-style-3 w-100" action="php/newsletter-subscribe.php" method="POST">
-                                <div class="d-flex">
-                                    <input class="form-control custom-form-control-newsletter-field box-shadow-none" placeholder="Email Address" name="newsletterEmail" id="newsletterEmail" type="text" />
-                                    <button class="btn btn-primary custom-form-control-newsletter-btn btn-px-3 btn-py-2 font-weight-bold" type="submit">
-                                        <img width="27" height="27" src="img/demos/insurance/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}" style="width: 27px;" />
-                                    </button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div> -->
+              
             </div>
         </div>
     </div>

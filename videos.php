@@ -57,25 +57,8 @@
 						<div class="col-sm-9 col-md-6">
 							<div id="teamMember1" class="row align-items-center">
 								<div class="col-lg-5 col-xl-6 pe-lg-0 mb-0 embed">
-									<!-- <img src="img/team/team-1.jpg" class="img-fluid" alt="Image of the team member" /> -->
 									<iframe src="https://www.youtube.com/embed/3uB1MqPMHPA"></iframe>
 								</div>
-								<!-- <div class="col-lg-7 col-xl-6 ps-lg-4">
-									<h4 class="text-color-dark font-weight-bold line-height-1 text-6 mt-3 mb-2">John Doe</h4>
-									<h3 class="d-block text-color-default font-weight-semibold line-height-1 positive-ls-2 text-2 mb-3">INSURANCE BROKER</h3>
-									<p class="text-4 line-height-8 mb-3-5">Home Insurance, Travel Insurance, Life Insurance, Vehicle Insurance, Business Insurance</p>
-									<ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-medium mb-0">
-										<li class="social-icons-facebook">
-											<a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-										</li>
-										<li class="social-icons-twitter">
-											<a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-										</li>
-										<li class="social-icons-linkedin">
-											<a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
-										</li>
-									</ul>
-								</div> -->
 							</div>
 						</div>
 						<div class="col-sm-9 col-md-6 ">
@@ -83,142 +66,21 @@
 								<div class="col-lg-5 col-xl-6 pe-lg-0 mb-0 embed">
 									<iframe src="https://www.youtube.com/embed/Hv7l-VLTs3s"></iframe>
 								</div>
-								<!-- <div class="col-lg-7 col-xl-6 ps-lg-4">
-									<h4 class="text-color-dark font-weight-bold line-height-1 text-6 mt-3 mb-2">Janice Doe</h4>
-									<h3 class="d-block text-color-default font-weight-semibold line-height-1 positive-ls-2 text-2 mb-3">INSURANCE BROKER</h3>
-									<p class="text-4 line-height-8 mb-3-5">Travel Insurance, Life Insurance, Vehicle Insurance, Business Insurance</p>
-									<ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-medium mb-0">
-										<li class="social-icons-facebook">
-											<a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-										</li>
-										<li class="social-icons-twitter">
-											<a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-										</li>
-										<li class="social-icons-linkedin">
-											<a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
-										</li>
-									</ul>
-								</div> -->
+
 							</div>
 						</div>
-						<!-- <div class="col-sm-9 col-md-6 mb-5-5">
-							<div id="teamMember3" class="row align-items-center">
-								<div class="col-lg-5 col-xl-6 pe-lg-0 mb-0">
-									<img src="img/team/team-3.jpg" class="img-fluid" alt="Image of the team member" />
-								</div>
-								<div class="col-lg-7 col-xl-6 ps-lg-4">
-									<h4 class="text-color-dark font-weight-bold line-height-1 text-6 mt-3 mb-2">Robert Doe</h4>
-									<h3 class="d-block text-color-default font-weight-semibold line-height-1 positive-ls-2 text-2 mb-3">INSURANCE BROKER</h3>
-									<p class="text-4 line-height-8 mb-3-5">Home Insurance, Life Insurance, Vehicle Insurance, Business Insurance</p>
-									<ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-medium mb-0">
-										<li class="social-icons-facebook">
-											<a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-										</li>
-										<li class="social-icons-twitter">
-											<a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-										</li>
-										<li class="social-icons-linkedin">
-											<a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-sm-9 col-md-6 mb-5-5">
-							<div id="teamMember4" class="row align-items-center">
-								<div class="col-lg-5 col-xl-6 pe-lg-0 mb-0">
-									<img src="img/team/team-4.jpg" class="img-fluid" alt="Image of the team member" />
-								</div>
-								<div class="col-lg-7 col-xl-6 ps-lg-4">
-									<h4 class="text-color-dark font-weight-bold line-height-1 text-6 mt-3 mb-2">Monica Doe</h4>
-									<h3 class="d-block text-color-default font-weight-semibold line-height-1 positive-ls-2 text-2 mb-3">INSURANCE BROKER</h3>
-									<p class="text-4 line-height-8 mb-3-5">Home Insurance, Travel Insurance, Vehicle Insurance, Business Insurance</p>
-									<ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-medium mb-0">
-										<li class="social-icons-facebook">
-											<a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-										</li>
-										<li class="social-icons-twitter">
-											<a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-										</li>
-										<li class="social-icons-linkedin">
-											<a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div> -->
+
 					</div>
 
 					<hr>
 
-					<!-- <h2 class="text-color-dark font-weight-medium text-8 mt-5 mb-3">Our <strong>Locations</strong></h2>
-
-					<p class="text-4 line-height-8 mb-4">Donec velit magna, consectetur at suscipit eu, dapibus vel odio. Mauris ac nulla at ligula interdum ullamcorper. Nunc mattis eros nec eros dictum, nec molestie metus auctor.</p>
-
-					<div class="row py-4">
-						<div class="col-lg-6 pb-4 pb-lg-0">
-
-							<p class="text-4-5 pe-lg-2 text-dark font-weight-bold">123 Porto Drive, Suite 10B, Vista, Kansas, 99999</p>
-							<ul class="list list-unstyled">
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-envelope text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="mailto:porto@insurance.com" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">porto@insurance.com</a>
-								</li>
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-phone text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">800-123-4567</a>
-								</li>
-							</ul>
-
-							<hr class="my-5">
-
-							<p class="text-4-5 pe-lg-2 text-dark font-weight-bold">123 Porto Drive, Suite 10B, Vista, Kentucky, 99999</p>
-							<ul class="list list-unstyled">
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-envelope text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="mailto:porto@insurance.com" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">porto@insurance.com</a>
-								</li>
-								<li class="d-flex align-items-center mb-3">
-									<i class="icon icon-phone text-color-dark text-3 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">800-123-4567</a>
-								</li>
-							</ul>
-
-						</div>
-						<div class="col-lg-6">
-							<div id="googlemapsAnimatedPin" class="google-map mt-0 mb-0" style="height: 400px;"></div>
-						</div>
-					</div> -->
 
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<!-- <section class="section section-height-3 bg-primary position-relative z-index-1 border-0 m-0">
-		<div class="container">
-			<div class="row align-items-center gy-5">
-				<div class="col-xl-7 text-center text-xl-start">
-					<h3 class="text-color-light font-weight-medium text-4 mb-1">LOOKING FOR AFFORDABLE INSURANCE?</h3>
-					<h2 class="text-color-light font-weight-bold mb-1">Get Insurance Online and Save Up To 20%!</h2>
-					<p class="text-color-light font-weight-semibold opacity-8 text-4 mb-0">Surprisigly great rates, get started right now. </p>
-				</div>
-				<div class="col-xl-5">
-					<div class="d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-xl-end">
-						<div class="d-inline-flex align-items-center mb-4 mb-sm-0">
-							<i class="icons icon-phone text-7 text-color-light position-relative bottom-2"></i>
-							<div class="ps-2">
-								<span class="d-block text-2 font-weight-medium text-color-light line-height-1">CALL US NOW</span>
-								<strong class="text-4"><a href="tel:+1234567890" class="text-color-light text-decoration-none">800-123-4567</a></strong>
-							</div>
-						</div>
-						<div class="custom-divider px-3 me-3 ms-5-5 d-none d-sm-block"></div>
-						<a href="#" class="btn btn-light btn-rounded font-weight-bold border-0 text-color-dark text-3 px-5 btn-py-3">GET STARTED</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
+
 
 </div>
 

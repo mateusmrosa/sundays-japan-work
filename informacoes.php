@@ -42,7 +42,7 @@
 
 			<div class="row text-center text-md-start py-2">
 				<div class="col p-relative bottom-5">
-					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Serviços</h1>
+					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Informações</h1>
 				</div>
 			</div>
 		</div>
@@ -815,6 +815,170 @@
 													</ul>
 
 												</div>
+
+												<div>
+													<p class="mb-0 font-weight-semibold"><b>11 - Compras</b></p>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.1 - Funcionamento de lojas e compras</li>
+														<p class="mb-0">No Brasil, normalmente, todas as lojas não funcionam aos domingos e feriados. No Japão, as lojas fecham em dia determinado da semana, alternadamente. O fechamento de lojas ocorre com base no “centro comercial” ou de ramos de negócios. Nos 3 primeiros dias do ano, fecham—se todas as lojas.</p>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.2 - Compras econômicas</li>
+														<p class="mb-0">Artigos de uso diário, alimentos, remédios comuns, utensílio de cozinha, etc, podem ser adquiridos mais baratos nos super-mercados (“supa”). Para economizar ou baratear o custo de vida convém aproveitar promoção de vendas publicadas, normalmente, nos jornais.</p>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.3 - "Kombini" - Lojas de conveniência espalhadas na cidade</li>
+														<p class="mb-0">Estas funcionam 24 horas por dia, ou de manhã cedo até alta horas, porém os pregos praticados nem sempre são mais baratos.</p>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.4 - Artigos de luxo ou de preços altos</li>
+														<p class="mb-0">É melhor pedir conselhos/ sugestões dos amigos e/ou vizinhos sobre o modelo, marca e os nomes de lojas, pois os moradores são bem mais informados do que os recém—chegados.</p>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.5 - Compra na máquina de venda automática</li>
+														<p class="mb-0">Encontram—se muito na cidade, as máquinas de vendas automáticas de cigarros, refrigerantes, latas de cerveja, funcionando o dia todo. Também há máquinas de venda de macarrão, hambúrguer, prontos para serem consumidos . Há uma tendência de se proibir colocação de máquinas de venda de bebidas alcoólicas, para evitar consumo pelos menores.</p>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.6 - Pagamento em dinheiro</li>
+														<p class="mb-0">No Japão não é usual o pagamento em cheque. Na maioria das vezes paga—se em dinheiro, atualmente o uso do cartão vem se difundindo naquele pais.</p>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 11.7 - Incidência de imposto de consumo</li>
+														<p class="mb-0">Incide 3% sobre o preço normal da mercadoria. Chamam—se “SOTOZEI” aqueles que o imposto são cobrados à parte e “UCHI-ZEI”, aqueles que o imposto já está incluso no preço.</p>
+													</ul>
+												</div>
+
+												<div>
+													<p class="mb-0 font-weight-semibold"><b>12 - Transporte</b></p>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 12.1 - Tarifa para crianças no transporte público</li>
+														<p class="mb-0">Regras: </p>
+														<ul>
+															<li>Meia tarifa para criança de atá 12 anos, inclusive.</li>
+															<li>Gratuita, quando acompanhado de um adulto, no máximo 2 (duas) crianças com idade até 6 anos, Inclusive.</li>
+															<li>Mesmo que estejam nas condições acima, será cobrado a tarifa inteira caso ocupe um lugar.</li>
+														</ul>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 12.2 - Aquisição de passagem de trem</li>
+														<p class="mb-0">Para curta distância: </p>
+														<ul>
+															<li>na estacão, há máquinas automáticas de vender bilhetes,</li>
+															<li>confirmar o preço, no painel existente na bilheteria.</li>
+															<li>insere—se o dinheiro (papel moeda ou moedas), e apertar o botão que indica o valor da tarifa.</li>
+															<li>a máquina fornece—lhe a passagem e o troco juntos</li>
+														</ul>
+														<p class="mb-0">Para média/longa distância: </p>
+														<ul>
+															<li>Verificar no painel de preços e em seguida, adquire—se a passagem no guichê com o bilheteiro. Basta Informar—lhe o destino e o número de bilhetes necessários.</li>
+														</ul>
+
+														<p class="mb-0">Para o deslocamento diário—trabalho/estudo: </p>
+														<ul>
+															<li>Hã “passe—especial” (Teiki—ken) com desconto. Existem três tipos de prazo, de 1, 3 é 6 meses. Quanto maior prazo, tem se mais descontos.</li>
+														</ul>
+
+														<p class="mb-0">Para deslocamento freqüente: </p>
+														<ul>
+															<li>Há “bilhete—múltiplo” composto de 11 (onze) passagens pelo preço de 10, devendo ser utilizada dentro de um mês.</li>
+															<li>Nas estações de maior movimento atualmente à fiscalização de passagens na entrada e o recolhimento na saída são executados por maquinas automáticas. Há também, o sistema manual, no qual o funcionário picota a na entrada e recolhe—a na salda.</li>
+														</ul>
+													</ul>
+
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 12.3 - Ônibus</li>
+														<p class="mb-0">Também no Japão o destino e o numero controle de itinerários, são, normalmente mostrados na frente do veiculo: </p>
+														<ul>
+															<li>É melhor receber antecipadamente das pessoas que saibam, o número de controle e itinerários.</li>
+														</ul>
+														<p class="mb-0">Ônibus no Japão esta sendo conduzido por uma pessoa só, com motorista sem o cobrador. Ele exerce as duas funções ao mesmo tempo: </p>
+														<p class="mb-0">O sistema de calculo da tarifa: </p>
+														<ul>
+															<li>tarifa única;</li>
+															<li>tarifa móvel, de com a distancia percorrida. Neste cago (B), ao subir no ônibus retira-se ficha controle no ponto de embarque e ao descer paga—se a tarifa, conforme indicador.
+																Colocar o dinheiro e ficha juntos na caixa coletora. Se necessário, há máquina para fornecer o troco, perto do motorista. Providencie—o com antecedência.</li>
+														</ul>
+														<p class="mb-0">Aviso para o motorista para descer:
+															Mesma colga no Brasil. Aproximando—se do ponto desejado, aperte o botão normalmente existente nos suportes ou perto de janelas.</p>
+														<p class="mb-0">Para quem usa o ônibus freqüentemente, recomenda—se comprar “teiki-ken” ou “kaisu-ken” – bilhete múltiplo. Ao contrário dos trens, “kaisu-ken” não há prazo de uso.</p>
+
+													</ul>
+
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 12.4 - Taxi</li>
+														<ul>
+															<li>Aproveitar o veiculo que tem indicador de táxi, a fim de evitar o táxi clandestino.</li>
+															<li>O jeito de parar o táxi é Internacional. Levante o braço para parar aquele que estiver passando. Há pontos de táxi nos diversos lugares.</li>
+															<li>A despesa de táxi mostrada no indicador pode ser paga, sem gorjeta. Pois, no Japão não há costume de se dar gorjeta.</li>
+															<li>Como no Brasil, nas altas horas ou bem cedo, há acréscimo na tarifa.</li>
+														</ul>
+													</ul>
+
+												</div>
+
+												<div>
+													<p class="mb-0 font-weight-semibold"><b>13 - Luz, água e gás</b></p>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 13.1 - Energia elétrica - Luz</li>
+														<p class="mb-0">Características: </p>
+														<ul>
+															<li>Voltagem é de 1OOV, no uso doméstico.</li>
+															<li>60 ciclos no Oeste e 50 ciclos no Leste do Japão.</li>
+															<li>Ampere determinado ao firmar o contrato com a empresa.</li>
+															<li>Obs. escolher os aparelhos elétricos adequados à energia local. Quando utilizar a energia acima do contratado, funciona disjuntor.
+																Neste caso diminua o uso, deixando desligados alguns aparelhos e ligar de novo a chave.</li>
+														</ul>
+														<p class="mb-0">O primeiro uso de energia, após mudança: </p>
+														<ul>
+															<li>Pode acionar a chave no quadro elétrico que fica perto da entrada. Normalmente, acha—se um cartão junto à chave, o qual deve ser preenchido, corretamente, e enviado à companhia, pelo correio. O cartão funciona como proposta de uso de energia.</li>
+															<li>Se quiser pagar despesas através de “débito automático” , informe o nome do banco/agência e o número da conta corrente.</li>
+														</ul>
+														<p class="mb-0">3) Desocupar o imóvel: </p>
+														<ul>
+															<li>Tome contato telefônico com a companhia, marcando o dia de Inspeção para fechar a conta, pelo menos 2 a 3 dias de antecedência. Após inspeção, paga—se a conta no ato.</li>
+														</ul>
+													</ul>
+
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 13.2 - Água</li>
+														<p class="mb-0">O órgão administrador de água e esgoto é em geral o município: </p>
+														<p class="mb-0">O primeiro uso de água, após mudança: </p>
+
+														<ul>
+															<li>Pode abrir o registro que a água sai, no caso de casa. No caso de apartamento ou alojamento coletivo, chame o zelador para providenciar e confirmar o hidrometro como ponto de partida.</li>
+														</ul>
+														<p class="mb-0">A proposta de uso pode ser enviada pelo correio, como no caso de energia elétrica: </p>
+														<p class="mb-0">Desocupação do imóvel: </p>
+														<ul>
+															<li>Mais ou menos uma semana antes da mudança, telefone à seção encarregada da prefeitura para marcar dia/hora da inspeção. Logo depois da inspeção, paga—se a conta, no ato.</li>
+														</ul>
+
+														<p class="mb-0">Esgoto: </p>
+														<ul>
+															<li>As despesas de esgoto são estimadas de acordo com o volume de água utilizada, e são cobradas sempre água/esgoto juntas.</li>
+														</ul>
+														<p class="mb-0">Se pingar a torneira:</p>
+														<ul>
+															<li>Na maioria dos casos o motivo é o desgaste da “guarnição da torneira”.</li>
+															<li>Verifique—o primeiro. A prefeitura pode—lhe oferecer, gratuitamente materiais e utensílios simples para a troca.</li>
+
+														</ul>
+													</ul>
+													<ul>
+														<li class="mb-0 font-weight-semibold"> 13.3 - Gás</li>
+														<p class="mb-0">A composição de gás de rua é diferente por região e por companhia, embora todo o gás de botijão seja igual.</p>
+														<p class="mb-0">Mudança de casa para diferente região:</p>
+														<ul>
+															<li>Os aparelhos anteriores podem não servir a gás de composição diferente, motivando acidentes fatais. Ao começar o uso de gás de rua, primeiro chame o encarregado da companhia para ele abrir o registro e verificar se os aparelhos trazidos servem ou não. Diferentes dos casos de Luz e Água, para o gás pode demorar um ou dois dias até o funcionamento..</li>
+														</ul>
+														<p class="mb-0">Desocupar do imóvel: </p>
+														<ul>
+															<li>Cerca de uma semana antes da desocupação, telefone à companhia para que o encarregado venha inspecionar e fechar o registro, no dia da mudança. A conta será quitada logo que termina a inspeção.</li>
+														</ul>
+													</ul>
+
+												</div>
+
 											</div>
 										</div>
 									</div>
@@ -822,27 +986,405 @@
 										<div class="card-header" id="collapse1HeadingFour">
 											<h4 class="card-title m-0">
 												<a class="accordion-toggle text-color-dark font-weight-semibold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Four" aria-expanded="false" aria-controls="collapse1Four">
-													4 - Wuspaisse hendreirit vehicula leo?
+													4 - Dicas de Viagem
 												</a>
 											</h4>
 										</div>
 										<div id="collapse1Four" class="collapse" aria-labelledby="collapse1HeadingFour" data-bs-parent="#accordion1">
 											<div class="card-body">
-												<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id enim sit amet odio vulputate eleifend in in tortor. Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id enim sit amet odio vulputate eleifend in in tortor. Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien.</p>
+												<p class="mb-0 font-weight-semibold">Antes de embarcar.</p>
+												<p class="mb-0 ">Antes de embarcar para o Japão, alguns procedimentos devem ser realizados para que você não encontre problemas ao retornar ao país. <br><br>
+
+													<b>CPF:</b> É importante verificar a situação cadastral e se suas declarações de imposto de renda estão regularizadas. Para fazer essa consulta entre no site: (www.receita.fazenda.gov.br), ou pelo telefone 7830078300. <br><br>
+
+													<b>Imposto de Renda:</b> O que fazer antes de sair do Brasil. Para quem pretende permanecer no Japão por pelo menos 12 meses, é importante que antes de sair do Brasil, compareça a uma agência da Receita Federal para solicitar uma Certidão Negativa do Imposto de Renda, assim como a Declaração de Saída Definitiva, avisando que não vai residir no Brasil por tempo indeterminado. <br><br>
+
+													Além disso, é preciso apresentar original ou cópia autenticada de documento de identidade do requerente que permita sua identificação e conferência de assinatura. Ambos formulários estão disponíveis no site da Receita Federal (www.receita.fazenda.gov.br) na seção Atendimento/Formulários, devendo ser preenchidos em duas vias e assinado pelo contribuinte ou procurador habilitado. <br><br>
+
+													No caso de requerimento assinado por procurador, também é preciso apresentar cópia, autenticada ou acompanhada do original, de procuração particular com firma reconhecida ou de procuração pública. Deverá ser apresentado documento ou cópia autenticada deste que comprove a assinatura do outorgado..
+												</p>
 											</div>
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Declaração de saída definitiva.</p>
+												<p class="mb-0 ">A Declaração de Saída Definitiva não significa a perda da nacionalidade brasileira e tem como objetivo apenas evitar que você seja considerado residente brasileiro e, portanto, sujeito ao pagamento de imposto no Brasil e Japão, durante os primeiros 12 meses de saída do país.<br><br>
+
+													<b>Risco de não entregar:</b> A partir do 13º mês de estada no exterior, você deixa de ser tributado no Brasil, pois se torna automaticamente não residente e fica sujeito apenas à incidência do imposto no Japão. Contudo, se não entregar a Declaração de Saída e ainda tiver fonte de renda no Brasil, como, por exemplo, renda de aluguel ou de investimentos, então esses valores serão tributados com base na alíquota de 25%. Essa é a alíquota usada pela Receita para tributar pessoa física não-residente no Brasil. <br><br>
+
+													<b>Como calcular o imposto devido:</b> O imposto será calculado levando-se em conta a tabela progressiva mensal de IR vigente para o ano em que a pessoa sair do Brasil. O imposto devido será calculado para o total de meses em que o contribuinte esteve como residente no país. Ou seja, para quem sair do país em maio, o imposto será recolhido para os meses de janeiro a abril. <br><br>
+
+													<b>Pagamento:</b> Como discutido acima, para obter a Declaração de Saída Definitiva é preciso estar em situação regular com a Receita, de forma a obter a Certidão Negativa de Débito. Exatamente por isso é preciso recolher, em quota única, o imposto referente aos rendimentos apurados enquanto você ainda estava como residente no Brasil. <br><br>
+
+													<b>Como entregar:</b> Em caso de pedido de restituição, é preciso indicar o banco, a agência e o número da conta corrente (ou de poupança) na qual deve ser efetuado o pagamento da restituição. A declaração de saída pode ser transmitida pela Internet, entregue em formulário nas unidades da Secretaria de Receita Federal.<br><br>
+
+													<b>Contas bancárias:</b> Verifique sua situação bancária, para que no seu retorno não encontre contas atrasadas ou mesmo a cobrança de taxas, que podem continuar sendo cobradas. O ideal é fechar a conta no Brasil e abrir uma conta para remessa de valores, num dos bancos brasileiros no Japão. Alguns bancos brasileiros mantém agências nas principais cidades japonesas.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Na viagem.</p>
+												<p class="mb-0 ">Na chegada ao Japão, confira suas bagagens. Para viajar ao país você pode carregar até dois volumes, cada um com até 32 kg. Mas, atenção! A soma da altura, do comprimento e da largura de cada uma das peças deve atingir no máximo 158 centímetros. Se você tiver algum problema com bagagens, procure a empresa aérea responsável pela sua viagem. <br><br>
+
+													Procure a empresa aérea de sua preferencia para verificar as normas sobre transporte de bagagens.<br><br>
+
+													<b> Como proceder na imigração:</b> Cada pessoa estrangeira que entrar no Japão é determinado o status e período de permanência, o qual está especificado no passaporte de cada indivíduo. É obrigatório o cumprimento das formalidades de praxe, quando for ter uma atividade além do status autorizado, assim como quando o período do prazo de permanência for vencer. O não cumprimento das obrigações acarretará uma punição ou será obrigado a deixar o país.<br><br>
+
+													<b>Status de permanência:</b> O estrangeiro na ocasião da entrada no país receberá do funcionário da imigração o status e o período de permanência. São 27 tipos diferentes e o estrangeiro está autorizado a atuar na atividade profissional dentro do status determinado.
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">No Japão.</p>
+												<p class="mb-0">Comunidade brasileira.</p>
+												<p class="mb-0 ">Muitas mudanças ocorreram nos últimos anos no Japão, fazendo com que o número de brasileiros em terras japoneses aumentasse. Esta mudança esta relacionada à remuneração, os altos salários e a possibilidade de longas jornadas de trabalho, o que possibilita ao brasileiro ganhar dinheiro de maneira mais rápida, podendo retornar ao Brasil com pouco tempo de estada no Japão. Com o tempo, houve uma mudança de postura, ao invés de um só membro da família ir sozinho trabalhar e retornar ao Brasil, famílias inteiras deslocam-se ao Japão e trabalham juntas, estendendo a permanência nas terras japonesas por mais tempo. <br><br>
+													Portanto, com o aumento de brasileiros no Japão, algumas comunidades brasileiras começaram a formar-se e, agora, cada vez mais os brasileiros podem sentir-se em casa, uma vez que já podem encontrar produtos brasileiros em lojas especializadas. Além de se encontrar serviços, como bancos, escolas, lojas, igrejas, discotecas, entre outros. Os empregos para os brasileiros agora se estendem das fábricas até pequenos comércios. Desta maneira, os brasileiros deixaram de ir ao Japão somente para ganhar dinheiro, mas também em busca de uma melhor qualidade de vida. A comunidade brasileira tornou-se, então, a terceira maior comunidade estrangeira no Japão, contando com aproximadamente 270.000 brasileiros em solo japonês. Este elevado número de brasileiros em território japonês fez com que os dois governos, brasileiro e japonês, começassem a desenvolver planos para melhor adaptação de brasileiros à sociedade japonesa, integrando-a no campo social e educacional.
+													<br><br>
+												<p class="mb-0 font-weight-semibold">Como enviar dinheiro ao Brasil.</p>
+												<p class="mb-0">Qualquer pessoa pode enviar dinheiro à sua família no Brasil, através de bancos que também tem agência no Japão ou através de contas abertas nos correios ou, ainda, através de contas abertas em bancos japoneses. Nos pontos de encontro da comunidade brasileira existe a oferta de serviços para remessa de dinheiro para quem não tem tempo de ir ao banco durante a semana.
+													Em relação aos bancos, é grande o número de bancos brasileiros, mas é necessário também ter uma conta em um banco japonês, onde o salário será depositado. Neste caso, para o brasileiro enviar dinheiro para sua família basta fazer uma transferência da conta indicada pela empreiteira, para uma conta de banco brasileiro (Santander ou Banco do Brasil) no Japão e deste para a agência aqui no Brasil. Deve-se lembrar que os caixas automáticos no Japão não são 24 horas como no Brasil. O horário do expediente bancário, diferente do Brasil, é das 9h às 15h, estando fechados nos fins de semana e feriados nacionais. </p> <br>
+
+												<p class="mb-0"> Telefones dos bancos no Japão:</p>
+												<ul>
+													<li> Daiichi Kangyo Bank: (03) 3596-1111;</li>
+													<li> Fuji Bank: (03) 3216-2211;</li>
+													<li> Sakura Bank: (03) 3230-3111;</li>
+													<li> Sumitomo Bank: (06) 6227-2111;</li>
+													<li> Tokyo-Mitsubishi: (03) 3240-1111;</li>
+													<li> Banco do Brasil: (03) 3213-6511;</li>
+													<li> Santander: (03) 3214-0608.</li>
+												</ul>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Filhos.</p>
+
+												<p class="mb-0 ">Ao tomar a decisão de ir para o Japão é preciso levar em consideração o tempo de permanência, principalmente para o casal que já possuem filhos em idade escolar. Ao se optar em permanecer bastante tempo no Japão, o casal pode decidir matricular seu filho em uma escola japonesa mesmo, uma vez que o ano letivo japonês vai de abril a março.<br><br>
+
+												<p class="mb-0">Se o tempo de permanência for pequeno, pode-se matricular a criança numa escola para brasileiros. Existem cerca de 60 escolas privadas no Japão que atendem brasileiros, sendo que apenas 37 possuem credenciamento junto ao Ministério da Educação. Na hora de matricular a criança é importante levar em consideração este reconhecimento, porque se o casal retornar ao Brasil, a criança só poderá continuar os estudos do período que parou, se os pais possuírem uma documentação reconhecida no Japão, por um órgão de educação do Brasil. Caso os pais não possuam a documentação, a criança será submetida a uma avaliação e classificação numa escola de educação básica para determinar o ano que ela poderá cursar.</p>
+												<br>
+												<p class="mb-0"> Em 2000, foi criado a Associação das Escolas para Brasileiros no Japão que assumiu a função de cadastrar todas as escolas no MEC. O Conselho Nacional de Educação, por sua vez, estabelece algumas normas para a abertura e funcionamento dessas escolas, que incluem uma autorização do governo japonês, uma proposta pedagógica igual ao modelo da Lei de Diretrizes e Bases da Educação Nacional e a formação do professor.</p>
+
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Trabalho.</p>
+
+												<p class="mb-0 ">Primeiramente, para os brasileiros descendentes de japoneses poderem trabalhar no Japão, tem de obter um visto específico que lhes garantam um prazo maior de permanência em território japonês. A maioria dos empregos no Japão para brasileiros está centrada nas fábricas, podendo variar de fabricação de autopeças, até montagem de celulares. De acordo com os costumes japoneses, é muito importante o cumprimento de regras, como a existência de locais específicos para fumar e a não tolerância a atrasos e faltas injustificadas. O ritmo de trabalho nas fábricas japonesas é muito rápido e geralmente as mulheres ganham menos que os homens, mas executam o mesmo trabalho. <br><br>
+
+													Devido à tradição japonesa, na hora da entrevista não é aconselhado o uso de brincos, anéis ou cabelos compridos para os homens e nem saias curtas e blusas muito decotadas para as mulheres. Para se tentar obter uma boa colocação no Japão é necessário procurar a aprender o máximo possível da língua. Pode-se tentar também tirar uma carteira de motorista japonesa, neste caso, a pessoa deverá fazer um exame teórico, que pode ser em português e um exame prático, já que no Japão se pratica a mão-inglesa. Lembrando que para funções específicas, a remuneração é melhor, portanto, é melhor que se tenha algum conhecimento técnico.<br><br>
+
+													A jornada de trabalho no Japão é de 40 horas semanais, vigentes por lei. Contudo é possível fazer horas extras ou quando necessário trabalhar em dias de folgas ou em plantão. Havendo problemas no trabalho ou necessidade de comunicação de demissão, o interessado deve dirigir-se diretamente às empreiteiras, uma vez que elas é que são intermediárias entre o empregado e a fábrica.</p>
+											</div>
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Telefones.</p>
+
+												<p class="mb-0 ">Pode-se adquirir uma linha de telefone residencial através do telefone 116 ou através do site da companhia NTT (www.ntt-east.co.jp) ou alugar uma linha telefônica por um valor de aproximadamente 3 mil ienes por mês, fora custo de pulsos. Há uma outra opção que é a utilização de orelhões que aceitam cartões, moedas ou ambos. <br><br>
+													Nas lojas de produtos brasileiros são vendidos cartões de ligações internacionais que possibilitam ao usuário controlar os seus gastos. Há a opção da utilização de celulares, que, como no Brasil, podem ser pré-pagos ou pós-pagos. <br><br>
+												<p class="mb-0 font-weight-semibold">Alguns telefones úteis no Japão.</p>
+												<ul>
+													<li>Auxílio à lista: 104</li>
+													<li>Bombeiro/Ambulância: 119</li>
+													<li>Polícia: 110</li>
+													<li>Embaixada do Brasil em Tokyo: (03)3404-5211</li>
+													<li>Consulado-Geral do Brasil em Tokyo (se perder seu passaporte, comunique o consulado): (03)5488-5451</li>
+													<li>Consulado-Geral do Brasil em Nagoya: (052)222-0177-8 e 222-1107/8 (horário de atendimento das 8h30 às 14h30)</li>
+												</ul>
+												<p class="mb-0 font-weight-semibold">Assistência Médica e Hospitais</p>
+												<ul>
+													<li>AMDA International Medical Information Center: (03) 5285-8088</li>
+													<li>American Pharmacy: (03) 3271-4034</li>
+													<li>Informações sobre hospitais: </li>
+													<ul>
+														<li>Tokyo (03) 3212-2323</li>
+														<li>Hiroshima (01) 2016-9912</li>
+														<li>International Catholic Hospital: (03) 3951-1111;</li>
+														<li>International Clinic: (05) 2651-6496;</li>
+														<li>Japan Baptist Hospital: (07) 5781-5191;</li>
+														<li>Japanese Red Cross Medical Center: ( 03) 3400-1311;</li>
+														<li>St. Luke´s International Hospital: (03) 3541-5151;</li>
+														<li>Tokyo Medical and Surgical Clinic: (03) 3436-3028.</li>
+													</ul>
+												</ul>
+
+												<p class="mb-0 font-weight-semibold">Serviço de Assessoria e Informação para Trabalhadores Nikkeis</p>
+												<ul>
+													<li>Tokyo Nikkeis (2ª a 6ª feira, das 9h às 17h30, em português) (03) 3204-8614</li>
+													<li>Tokyo Nikkeis (2ª a 6ª feira, das 9h às 17h30, em espanhol) (03) 32048618</li>
+													<li>Nagoya Nikkeis (2ª a 6ª feira, das 9h30 às 16h30, em português e espanhol) (052)5613781</li>
+													<li>Utsunomiya Nikkeis (2ª a 6ª feira, das 9h30 às 16h30, em português e espanhol) (028) 623-8609</li>
+													<li>Ota Nikkeis (3ª e 6ª feira, das 10h às 17h, em português) (0276) 60-3192</li>
+													<li>Chiba Nikkeis (5ª e 6ª feira, das 9h30 às 16h30, em português) (043) 2381241; Hamamatsu Nikkeis (2ª a 6ª, das 9h às12h e das 13h às 16h, em português e espanhol) (053) 457-1622;</li>
+													<li>Osaka Nikkeis (2ª a 6ª, das 13h às 18h, em português) (06) 6485-6141</li>
+												</ul>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Correios.</p>
+
+												<p class="mb-0 ">O serviço de correios japonês também pode ser utilizado como agência bancária e podem até fazer remessa de dinheiro. Muitas pessoas preferem ter contas nos correios, uma vez que elas podem ser encontradas em quase todos os lugares. <br><br>
+
+													O horário de funcionamento das principais agências, em geral, é das 9h às 19h, nos dias de semana e das 9h às 17h, nos sábados e nos domingos, das 9h às 12h30. As agências menores abrem das 9h às 17h nos dias de semana e nos sábados, das 9h às 12h30.
+													Para postagem de cartas internacionais, é aconselhável a procurar as agências maiores. Quando a postagem é urgente, informar ao atendente do balcão dos correios e em extrema urgência dirigir-se ao Tokyo Central Post Office ou do Tokyo International Post Office no aeroporto de Narita.<br><br>
+
+													Postagens utilizando caixas podem demorar um pouco mais para chegar ao destino final e podem ser enviadas através de postagem aérea ou marítima. Todas as tarifas de postagem variam conforme o peso, localidade e o tamanho do pacote.
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Lixo.</p>
+
+												<p class="mb-0 ">Diferente do Brasil, no Japão, há o costume de separar o lixo e cada tipo de lixo tem um dia específico para ser recolhido. Deve-se separar o lixo em:<br>
+													<b> lixo incinerável:</b> restos de comida, papéis não-recicláveis como higiênico e lenços, cinzas e restos de cigarros, fraldas ou plantas (antes de jogar retire o líquido dos alimentos);
+													<br>
+													<b> lixo não-incinerável:</b> produtos plásticos, como sacolinhas, embalagens de produtos de limpeza, luvas, isopor, alumínios, peças de couro, aerossol e vidros (vidros devem ser embrulhados em jornais ou papéis. No saco de lixo, escreva danger);
+													<br>
+													<b> lixo de grande porte:</b> tapetes, bicicletas, acolchoados, não são recolhidos móveis, como armários, nem eletrodomésticos, como televisores(esse tipo de lixo é recolhido uma vez por ano). Antes de jogar os objetos, entre em contato com a prefeitura para verificar as taxas ;
+													<br>
+													<b> lixo reciclável: </b> jornais, revistas, panfletos, garrafas e latas; lixo nocivo: botijões de gás, remédios e pilhas.
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Residência.</p>
+
+												<p class="mb-0 ">Quando um estrangeiro quer alugar uma residência por conta própria, geralmente é solicitado o valor equivalente de dois a cinco meses de aluguel adiantado. Por isso, é melhor dar preferência a indicação de moradia da empreiteira.
+													<br><br>
+													Há uma outra opção de moradia, que são os imóveis públicos, contudo, devido a grande procura, a seleção é criteriosa, iniciando-se por critérios socioeconômicos e, por último, por sorteio. As despesas adicionais incluem água, luz e gás (que é encanado).
+													<br><br>
+													É importante lembrar, que ao entrar em uma residência, deve-se tirar seus sapatos e trocá-los por chinelos, e na falta deles, deve-se permanecer de meias. Este hábito está relacionado a evitar a contaminação do ambiente interno com a poluição das ruas, portanto, esteja ciente que seu sapato deve permanecer na parte inferior do piso.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Fenômenos Naturais (terremotos, tufões, vulcões).</p>
+
+												<p class="mb-0 ">No Japão é muito frequente a incidência de terremotos, tufões ou erupções vulcânicas. Em caso de terremotos, algumas precauções devem ser tomadas, como por exemplo, Deve-se evitar deixar objetos perigosos nas beiradas da mesa ou dos armários. Se possível, parafuse seus armários nas paredes, deixe sempre seu calçado perto para não se cortar com possíveis estilhaços de vidros. Ao pressentir o tremor, não corra para rua, pois objetos pesados podem cair sobre você, procure se proteger embaixo de uma mesa ou alguma mobília resistente; se estiver num prédio antigo, abra as portas para que elas não fiquem travadas.
+													<br><br>
+													Em caso de tufões, fique na sua residência, mas, em geral, não causam maiores danos. Os vulcões que ainda estão ativos no Japão, ficam isolados por uma cerca, contudo, fumaças tóxicas podem aparecer ocasionalmente, por isso deve-se ficar atento.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Transportes.</p>
+
+												<p class="mb-0 ">O mais completo sistema de transporte do mundo está localizado no Japão, contando com ônibus, trens e metrôs que obedecem rigorosamente aos horários.
+													<br>
+													Ao utilizar o metrô e trem, não jogue fora seu bilhete de embarque, pois, o mesmo será solicitado na sua saída da estação.
+													<br>
+													Os trens que fazem percursos ligando grandes cidades levam letreiros em japonês e inglês, contudo os trens locais, principalmente de áreas rurais, não possuem letreiros traduzidos, mas os funcionários tentam auxiliar o estrangeiro da melhor maneira possível.
+													<br>
+													O metrô é utilizado para se locomover dentro de grandes cidades. Quando há duas empresas operando o sistema de metrôs, e havendo necessidade de uma baldeação, a pessoa deverá pagar duas passagens.
+													<br>
+													O horário de funcionamento geralmente é das 5h às 0h30. Os bilhetes são vendidos em máquinas automáticas que também podem possuir menus em inglês.
+													<br>
+													Os trens-balas são utilizados para percorrer um caminho entre uma cidade e outra a uma velocidade de até 300 km/h.
+													<br>
+													Entre Tokyo e Osaka existe três classes de trem super-expresso, expresso e semi-expresso, quanto mais rápido o trem, maior o valor da passagem.
+													<br>
+													Os ônibus municipais muitas vezes estão localizados próximos às estações de trens. Há dois tipos de embarque: o embarque com valor único, que se paga diretamente ao motorista. Neste caso, entre pela porta da frente e, em pequenas cidades, entra-se pela porta do meio ou de trás, retira-se uma etiqueta e paga-se pela distância percorrida. Dentro dos ônibus, como nos metrôs e trens, uma gravação anuncia o nome das paradas, quando chegar à parada desejada aperte o botão.
+													<br>
+													Para utilização dos ferry-boats, os bilhetes devem ser comprados nos terminais de balsas; contudo, hoje em dia os barcos estão se tornando mais uma atração para turistas do que um meio de transporte.
+													<br>
+													Procure evitar táxis que não levem uma placa vermelha, pois não são licenciados.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Carta de motorista.</p>
+
+												<p class="mb-0 ">Não dirija no Japão sem uma carteira de motorista japonesa, mesmo que possua carteira de motorista brasileira.
+
+													Para tirar uma carteira de motorista do Japão é necessário ser aprovado nas provas de aptidão, prova de conhecimentos de leis de trânsito e prova de direção. É melhor contratar uma autoescola, onde os cursos têm a duração de 1 ou 2 meses, as aulas são ministradas em japonês, onde a pessoa irá dirigir em diferentes tipos de pista.Se aprovado, a carteira terá a duração de 3 anos.
+
+													No Centro de Habilitação para Motoristas (Unten Menkyo Shikenjo) é possível fazer a transferência da Carteira de Habilitação Brasileira para a Japonesa, contudo, a pessoa tem estar de posse de CNH a pelo menos três meses, caso contrário ela não poderá entrar com o pedido de transferência.
+
+													Os documentos necessários são: Carteira de motorista do país de origem, dentro da validade; tradução para o japonês da Carteira de Motorista, pelo consulado ou JAF; Carteira de Registro de Estrangeiros (Gaikokujin Toroku Shomeisho ou Gaikojin Toroku Zumi Shomeisho); 1 foto 3cm x 2,4cm.
+
+													Os encargos giram em torno de 5.000 ienes. O valor irá depender do tipo de carteira.
+
+													O endereço do Centro de Habilitação para Motoristas da Província de Kyoto: Kyoto-shi, Fushimi-ku Hatsukashi Furukawa-cho, 647. O telefone é (075) 631-5181. O horário de atendimento é de segunda às sextas-feiras, das 8h30 às 10h00 e das 13h00 às 14h00.</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Cultura.</p>
+
+												<p class="mb-0 ">O Japão é um arquipélago dividido em 8 regiões e estas são divididas em 47 províncias. Contudo, 43 recebem a denominação Ken (Província, propriamente dita).
+
+													Tokyo é a prefeitura metropolitana (a denominação é To) e está localizada na ilha de Honshu.
+
+													Osaka e Kyoto são províncias urbanas, por isso, recebem a denominação Fu e Hokkaido é um distrito.
+
+													Cada Província é governada de maneira independente por um governo central, que geralmente está localizado na maior centro urbano.
+
+													O arquipélago japonês é formado por quatro ilhas principais, a maior delas é Honshu, seguida de Hokkaido, Kyushu e a menor é Shikoku.</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Costumes.</p>
+
+												<p class="mb-0 ">A sociedade japonesa, por mais moderna que seja, ainda preserva a etiqueta, mesmo que hoje ela seja menos rigorosa que há alguns anos. Por isso, é muito importante para os brasileiros aprender e entender alguns dos principais costumes japoneses, evitando, desta maneira, qualquer tipo de desagrado ou ofensa a um nativo.
+
+													O cumprimento é uma das maiores provas de boa educação. É muito importante cumprimentar seus colegas de trabalho ou seus superiores na fábrica pela manhã ou em locais públicos, como hotéis, restaurantes, lojas, mesmo que seu cumprimento seja ignorado.
+
+													Se o cumprimento for correspondido com um sorriso, você pode ou não fazer uma reverência. Lembre-se que no Japão existe uma hierarquia e muito respeito aos mais velhos. O brasileiro, sendo um estrangeiro, está colocado na parte mais baixa da hierarquia, devendo, portanto, respeito aos demais companheiros de trabalho.
+
+													O respeito aos mais velhos não se limita somente aos avós, pais ou outras pessoas de mais idade e, sim, a qualquer pessoa mais velha, inclusive um, dois anos ou mais que a pessoa.
+
+													Os japoneses têm o costume, em encontros comerciais, de entregar um cartão de visita. Não se deve guardar o cartão diretamente no bolso, primeiro, deve-se segurar o cartão com as duas mãos, fazer uma breve reverência, lê-lo e, então, em seguida guardá-lo.
+
+													Os modos à mesa também são muito observados. Procure não espetar o hashi na tigela de arroz, evite gesticular enquanto segura o hashi, não toque a comida do prato comum se não vai pegá-la. Evite lamber o hashi. Facas e garfos são utilizados mas somente para comidas ocidentais e as colheres são utilizadas para comer certos tipos de alimentos.
+
+													A geração mais velha não vê com bons olhos quem come em trânsito, mas se a viagem for longa, então, tudo bem.
+
+													Os japoneses são bastante tolerantes com cigarros, contudo, atenção a sinalização em locais fechados, como fábricas, que possuem locais certos para fumar.
+
+													Procure não assoar o nariz em público e, em estando resfriado, utilize uma máscara de gaze, como postura de boa educação, para evitar o contagio de outras pessoas.
+
+													No trabalho, ao sair, peça licença.
+
+													Na tradição japonesa não há o costume de se fazer visitas em casa, contudo, se receber um convite não o recuse, pois é falta de educação e,ao visitar a pessoa, leve uma lembracinha ou alimentos.
+
+													Evite falar em telefones celulares em locais fechados, como trens, metrôs, ônibus, hospitais ou outros lugares.
+
+													Atenção à linguagem corporal, alguns atos podem ser considerados rudes, como por exemplo, ao se sentar no chão não estique as pernas, apontar é falta de educação.
+
+													As mulheres, por sua vez, devem sentar com as pernas para o lado. No Japão não se cumprimenta as pessoas com beijos no rosto, nem abraços. Evite beijar seu companheiro em público, isso não é bem visto aos olhos nipônicos.
+
+													Retire seus sapatos ao entrar na casa, colocando chinelos ou andando de meias. Nunca entre com os calçados da rua para dentro de casa, eles veem este ato como contaminação do ambiente interno e é extrema falta de educação.</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Saúde.</p>
+
+												<p class="mb-0 ">Consultas médicas no Japão são muito caras. Portanto, procure assinar um seguro de saúde, sendo que o preço pode variar de uma cidade para outra.
+
+													O brasileiro poderá se inscrever diretamente na prefeitura da cidade em que reside, procurando a seção de seguro nacional. Com este seguro é possível conseguir um abatimento de até 70% do valor das consultas, exceção tratamento estético, mas se o seguro não estiver em dia será cobrado o valor integral.
+
+													Há também a opção do seguro da empresa, onde o empregador assina o seguro para o funcionário, a empresa paga metade e a outra metade são descontadas em folha de pagamento.
+
+													É recomendado que havendo necessidade de uma consulta médica, ir acompanhado de uma pessoa fluente no idioma japonês. O seguro saúde não cobre despesas de gestação.</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Emergências.</p>
+
+												<p class="mb-0 ">Em caso de emergências, o telefone é 119, devendo, então, informar o motivo da ligação e o local da ocorrência. Por exemplo: osan desu (parto), shukketsu desu (hemorragia), kossetsu desu (fratura), yakedo desu (queimadura), mune ga kurushii desu (dor no peito), keiren desu (convulsão), ishiki fumei desu (está inconsciente).</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Feriados no Japão.</p>
+
+												<p class="mb-0 "><b>Janeiro:</b> 1º – Ano novo, em japonês, Shogatsu. é o feriado mais importante no Japão e a maioria das lojas permanecem fechadas, entre o 1º e o 3º dia. 2ª segunda-feira – Na 2ª segunda-feira são homenageados os jovens que completaram 20 anos no ano anterior. A cerimônia ocorre na prefeitura da cidade com os jovens vestindo quimonos especiais e depois saindo para aproveitar seus novos direitos.<br><br>
+
+													<b>Fevereiro:</b> 3 – Setsubun: no primeiro dia da primeira semana, segundo o calendário chinês, feijões devem ser jogados nos templos para afastar demônios. 11 – Dia da fundação do país: o nome do feriado em japonês é Kenkokukinen no hi, acredita-se que neste dia o primeiro imperador do Japão subiu ao trono. É equivalente ao dia da independência do Brasil.<br><br>
+
+													<b>Março:</b> 3 – Hina Matsuri (dia das meninas): os pais que tem filhas expõem bonecos tradicionais (Hina Ningyou) que representam a família imperial. Parentes e amigos presenteiam com peças de jogos. 20 ou 21 – Equinócio de primavera: é comemorado o Shunbun no Hi, os templos realizam orações especiais e as pessoas visitam os túmulos de suas famílias. Fim de março até o começo de maio – Sakura no Hana: na primavera os japoneses vão aos parques observar a florada da cerejeira.<br><br>
+
+													<b>Abril e maio:</b> 29 a 5 de maio – Golden Week: feriado que começa no dia 29 de maio, com o dia do verdade, em homenagem ao aniversário imperador Hirohito, que era especialista em biologia e botânica. Emendando com o feriado de 3 de maio (dia da Constituição) e terminando em 5 de maio (dia das crianças). No dia das crianças, as famílias que tem meninos, erguem bandeiras em forma de carpa (símbolo da vitalidade). Junho: 3º domingo – Dia dos pais: diferente do Brasil. É costume também dar presente aos sogros. J <br><br>
+
+													<b>Julho:</b> 7 – Tanabata (festival das estrelas): Segundo a lenda nesta data as estrelas Altair e Veja se encontram, então, as pessoas escrevem seus desejos em um pedaço de papel e penduram em uma árvore, esperando que as estrelas o realizem. 20 – Dia do Mar: celebração da importância do mar para o povo japonês Meados de julho ou agosto – Obon: equivalente ao nosso Dia de Finados. O período geralmente é de 13 a 15 de julho, mas pode variar para agosto, dependendo da região.<br><br>
+
+													<b>Setembro:</b> 2ª segunda-feira – Dia de respeito aos idosos: é um feriado nacional 23 ou 24 – Equinócio de outono: visitação aos templos budistas em comemoração ao início do outono.<br><br>
+
+													<b>Outubro:</b> 2ª segunda-feira – Dia da Saúde e dos Esportes: é um feriado nacional e remete às Olimpíadas de Tokyo de 1964.<br><br>
+
+													<b>Novembro:</b> 3 – Dia da Cultura: o governo japonês neste dia dá medalhas às pessoas que contribuíram para a cultura do país.
+													15 – Shichi-Go-San: é uma data comemorativa, onde meninos de 3 e 5 anos e meninas de 3 e 7 anos são levadas aos templos, vestidos com quimonos, para receberem boa sorte.
+													23 – Dia de Ação de Graça pelo Trabalho: é um feriado nacional onde o imperador dedica a primeira colheita de arroz aos deuses.<br><br>
+
+													<b>Dezembro:</b> 23 – Aniversário do Imperador: é um feriado nacional. Neste dia a população pode entrar no Jardim do Palácio Imperial e a família imperial cumprimenta os súditos.
+													25 – Natal: não é feriado nacional, mas as lojas usam decoração natalina.
+												</p>
+											</div>
+
+
 										</div>
 									</div>
+
 									<div class="card card-default">
 										<div class="card-header" id="collapse1HeadingFive">
 											<h4 class="card-title m-0">
 												<a class="accordion-toggle text-color-dark font-weight-semibold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Five" aria-expanded="false" aria-controls="collapse1Five">
-													5 - Lintegers aliquet ullamcorper dollor, quis sollic tudin?
+													5 - Saúde e Educação
 												</a>
 											</h4>
 										</div>
 										<div id="collapse1Five" class="collapse" aria-labelledby="collapse1HeadingFive" data-bs-parent="#accordion1">
 											<div class="card-body">
-												<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id enim sit amet odio vulputate eleifend in in tortor. Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id enim sit amet odio vulputate eleifend in in tortor. Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien.</p>
+												<p class="mb-0">As consultas clínicas no Japão estão entre as mais caras do mundo. Por isso, compensa o registro em um dos planos de saúde sustentados pelo governo. Imigrantes que ficam mais de 1 ano no país têm a possibilidade de se inscrever no Kokumin Kenkou Hoken, o seguro médico público. Há diferenciais entre os preços cobrados em cada município.
+													Existe também a proteção para assalariados, em que o empregador é quem cadastra o funcionário. Nesse tipo de plano, o empregador paga metade das taxas, e o empregado, a outra, que é descontada na folha de pagamento. Muitos preferem não pagar a apólice para evitar mais descontos, mas o alto custo de um tratamento médico compensa o pagamento do plano.
+												</p>
+											</div>
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Para ir ao médico</p>
+												<p class="mb-0">É recomendável ir ao hospital acompanhado de pessoas que falem bem o idioma japonês. Associações de auxílio a estrangeiros costumam oferecer o serviço de tradução para problemas médicos gratuitamente. Consulte na sua prefeitura.</p>
+											</div>
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Gravidez</p>
+												<p class="mb-0">Ao confirmar a gravidez, no hospital, você recebe um documento chamado <b> <i> Ninshin Todoke</i></b>. Leve-o ao Centro de Saúde Pública (Hokenjo) para receber a caderneta Boshi Techou, usada para os exames de pré-natal e para anotações sobre a saúde da criança.
+													Não é permitido demitir uma funcionária grávida ou submetê-la a atividades que ofereçam risco à saúde. Gestantes que têm dificuldades financeiras devem ir ao Hokenjo, onde serão encaminhadas ao serviço de assistência social.
+												</p>
+											</div>
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Em caso de emergência</p>
+												<p class="mb-0">O telefone de emergência no Japão é 119. Para pedir uma ambulância, diga Kyuukyuusha onegaishimasu. Você deverá, então, informar qual o motivo da solicitação e o local da ocorrência.</p>
+												<p class="mb-0">Exemplo: </p>
+												<ul>
+													<li>Parto – <i>osan desu</i></li>
+													<li>Hemorragia – <i>shukketsu desu</i></li>
+													<li>Fratura – <i>kossetsu</i></li>
+													<li>Queimadura – <i>yakedo desu</i></li>
+													<li>Dor no peito – <i>mune ga kurushii desu</i></li>
+													<li>Convulsão – <i>keiren desu</i></li>
+													<li>Está inconsciente – <i>ishiki fumei desu</i></li>
+												</ul>
+
+											</div>
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Especialidades médicas</p>
+												<ul>
+													<li>Cardiologia –<i>shinzou geka</i></li>
+													<li>Cirurgia geral –<i>geka</i></li>
+													<li>Ginecologia –<i>sanfujinka</i></li>
+													<li>Neurologia –<i>shinkeika</i></li>
+													<li>Odontologia –<i>shika</i></li>
+													<li>Oftalmologia –<i>ganka</i></li>
+													<li>Ortopedia –<i>seikei geka</i></li>
+													<li>Otorrinolaringologia –<i>jibika</i></li>
+													<li>Pediatria –<i>shounika</i></li>
+												</ul>
+
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Frases úteis - Você pode ouvir</p>
+												<ul>
+													<li>É a primeira visita? –&nbsp;<i>Hajimete desuka?</i></li>
+													<li>Trouxe a carteira do seguro de saúde? –&nbsp;<i>Hoken wo mottekimashitaka?</i></li>
+													<li>O que está sentindo? –&nbsp;<i>Donna guai desuka?</i></li>
+													<li>Abra a boca –&nbsp;<i>Kuchi o akete kudasai</i></li>
+													<li>Tem apetite? –&nbsp;<i>Shokuyoku arimasuka?</i></li>
+													<li>Sente cansaço? –&nbsp;<i>Tsukarete imasuka?</i></li>
+													<li>Sente ânsia de vômito? –&nbsp;<i>Hakike wa arimasuka?</i></li>
+													<li>Sinto tontura –&nbsp;<i>Memaiga shimasu</i></li>
+													<li>Sinto dor (forte) nas costas –&nbsp;<i>Senaka ni (tsuyoi) itami o kanjimasu</i></li>
+													<li>Sinto dor de cabeça –&nbsp;<i>Atama ga itai desu</i></li>
+													<li>É necessário algum exame? –&nbsp;<i>Kensa wa hitsuyou desuka?</i></li>
+													<li>Como foi o resultado do exame? –&nbsp;<i>Kensa no kekka wa dou desuka?</i></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="card card-default">
+										<div class="card-header" id="collapse1Headingsix">
+											<h4 class="card-title m-0">
+												<a class="accordion-toggle text-color-dark font-weight-semibold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Six" aria-expanded="false" aria-controls="collapse1Six">
+													6 - Salários e descontos no Japão
+												</a>
+											</h4>
+										</div>
+										<div id="collapse1Six" class="collapse" aria-labelledby="collapse1HeadingSix" data-bs-parent="#accordion1">
+											<div class="card-body">
+												<p class="mb-0">As consultas clínicas no Japão estão entre as mais caras do mundo. Por isso, compensa o registro em um dos planos de saúde sustentados pelo governo. Imigrantes que ficam mais de 1 ano no país têm a possibilidade de se inscrever no Kokumin Kenkou Hoken, o seguro médico público. Há diferenciais entre os preços cobrados em cada município.
+													Existe também a proteção para assalariados, em que o empregador é quem cadastra o funcionário. Nesse tipo de plano, o empregador paga metade das taxas, e o empregado, a outra, que é descontada na folha de pagamento. Muitos preferem não pagar a apólice para evitar mais descontos, mas o alto custo de um tratamento médico compensa o pagamento do plano.
+												</p>
 											</div>
 										</div>
 									</div>
