@@ -53,7 +53,7 @@
 			<div class="row position-relative z-index-1 pt-5-5">
 				<div class="col">
 					<p class="text-color-dark text-8 mb-4-5">Preencha o formulário de <strong>curriculum</strong></p>
-					<form class="contact-form custom-form-style-1" action="php/contact-form.php" method="POST">
+					<!-- <form class="contact-form custom-form-style-1" action="php/contact-form.php" method="POST">
 						<div class="contact-form-success alert alert-success d-none mt-4">
 							<strong>Success!</strong> Your message has been sent to us.
 						</div>
@@ -65,10 +65,10 @@
 
 						<div class="row row-gutter-sm">
 							<div class="form-group col-lg-3 mb-4">
-								<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required placeholder="Your Name">
+								<input type="date" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required placeholder="Your Name">
 							</div>
 							<div class="form-group col-lg-3 mb-4">
-								<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
+								<input type="text" value="" data-msg-required="Please enter your phone number." checked="checked" maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Objetivo da viagem"> 
 							</div>
 							<div class="form-group col-lg-3 mb-4">
 								<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
@@ -95,8 +95,429 @@
 								<button type="submit" class="btn btn-secondary btn-rounded border-0 font-weight-bold text-3 btn-px-5 py-3" onclick="teste()" data-loading-text="Loading...">SEND MESSAGE</button>
 							</div>
 						</div>
-					</form>
+					</form> -->
+					<form method="post" action="./util/enviar-email.php">
+						<div class="row">
+							<div class=" col-md-6">
+								<label for="exampleInputEmail1" class="form-label">Previsão de Embarque</label>
+								<input type="date" class="form-control" name="dataEmbarque" id="exampleInputEmail1" aria-describedby="emailHelp">
+							</div>
+							<div class=" col-md-6">
+								<label for="exampleInputEmail1" class="form-label">Nome</label>
+								<input type="email" class="form-control" name="nome" id="exampleInputEmail1" aria-describedby="emailHelp">
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-3">
+								<label class="form-check-label" for="exampleCheck1">Objetivo da viagem:</label>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3 form-check">
+									<input type="checkbox" class="form-check-input" name="objFinanceiro" id="exampleCheck1">
+									<label class="form-check-label" for="exampleCheck1">Financeiro</label>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3 form-check">
+									<input type="checkbox" class="form-check-input" id="exampleCheck1">
+									<label class="form-check-label" name="objCultural" for="exampleCheck1">Cultural</label>
+								</div>
+							</div>
+						</div>
+						<div class="mb-3">
+							<label for="exampleInputEmail1" class="form-label">Especifique</label>
+							<input type="email" class="form-control" name="especifique" id="exampleInputEmail1" aria-describedby="emailHelp">
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-3">
+								<label class="form-check-label" for="exampleCheck1">Sexo:</label>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3 form-check">
+									<input type="checkbox" class="form-check-input" name="masculino" id="exampleCheck1">
+									<label class="form-check-label" for="exampleCheck1">Masculino</label>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3 form-check">
+									<input type="checkbox" class="form-check-input" name="feminino" id="exampleCheck1">
+									<label class="form-check-label" for="exampleCheck1">Feminino</label>
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-6">
+								<div class="mb-">
+									<label for="exampleInputEmail1" class="form-label">Idade</label>
+									<input type="email" class="form-control" name="idade" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-6">
+								<label for="exampleInputEmail1" class="form-label">Descendência</label>
+								<select class="form-select" name="descendencia" aria-label="Default select example">
+									<option selected value="issei">Issei</option>
+									<option value="nissei">Nissei</option>
+									<option value="sansei">Sansei</option>
+									<option value="mestico">Mestiço</option>
+									<option value="dupla">Dupla</option>
+									<option value="naoDescendente">Não descendente</option>
+								</select>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Rua</label>
+									<input type="text" class="form-control" name="rua" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">CEP</label>
+									<input type="email" class="form-control" name="cep" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Cidade</label>
+									<input type="email" class="form-control" name="cidade" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Estado</label>
+									<input type="email" class="form-control" name="estado" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Telefone</label>
+									<input type="email" class="form-control" name="telefone" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">E-mail</label>
+									<input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">RG</label>
+									<input type="email" class="form-control" name="rg" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">CPF</label>
+									<input type="email" class="form-control" name="cpf" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Data Nascimento</label>
+									<input type="date" class="form-control" name="dataNascimento" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Estado Civil</label>
+								<select class="form-select" name="estadoCivil" aria-label="Default select example">
+									<option selected value="solteiro">Solteiro</option>
+									<option value="casado">Casado</option>
+									<option value="divorciado">Divorciado</option>
+									<option value="viuvo">Viúvo</option>
+								</select>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Tempo de casado</label>
+									<input type="text" class="form-control" name="tempoCasado" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Nome do conjuge</label>
+									<input type="text" class="form-control" name="nomeConjuge" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Filhos</label>
+								<select class="form-select" name="filhos" aria-label="Default select example">
+									<option selected value="sim">Sim</option>
+									<option value="nao">Não</option>
+								</select>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Quantidade de filhos</label>
+									<input type="number" class="form-control" name="qtdeFilhos" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
 
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Idades Filhos</label>
+									<input type="text" class="form-control" name="idadesFilhos" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Pretende leva-los?</label>
+								<select class="form-select" name="pretendeLevalos" aria-label="Default select example">
+									<option selected value="sim">Sim</option>
+									<option value="1" value="nao">Não</option>
+								</select>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-6">
+								<label for="exampleInputEmail1" class="form-label">Visto</label>
+								<select class="form-select" name="visto" aria-label="Default select example">
+									<option selected value="aSolicitar">A solicitar</option>
+									<option value="1" value="jaComVisto">Já com visto</option>
+								</select>
+							</div>
+							<div class="col-md-6">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Validade</label>
+									<input type="date" class="form-control" name="validade" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-6">
+								<label for="exampleInputEmail1" class="form-label">Situação</label>
+								<select class="form-select" name="situacao" aria-label="Default select example">
+									<option selected value="emAndamento">Em andamento</option>
+									<option value="reentrada">Reentrada</option>
+								</select>
+							</div>
+							<div class="col-md-6">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Validade</label>
+									<input type="date" name="validade" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-6">
+								<label for="exampleInputEmail1" class="form-label">Situação</label>
+								<select class="form-select" name="situacao" aria-label="Default select example">
+									<option selected value="issei">Issei</option>
+									<option value="permanente">Permanente</option>
+								</select>
+							</div>
+							<div class="col-md-6">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Validade</label>
+									<input type="date" class="form-control" name="validade" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-6">
+								<label for="exampleInputEmail1" class="form-label">Situação</label>
+								<select class="form-select" name="situacao" aria-label="Default select example">
+									<option selected value="dupla">Dupla</option>
+									<option value="passaporte">Passaporte</option>
+								</select>
+							</div>
+							<div class="col-md-6">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Validade</label>
+									<input type="date" class="form-control" name="validade" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-6">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Nome do pai</label>
+									<input type="date" class="form-control" name="nomeDoPai" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Nome da mãe</label>
+									<input type="date" class="form-control" name="nomeDaMae" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Altura em (cm)</label>
+									<input type="text" class="form-control" name="alturaEmCm" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Peso</label>
+									<input type="text" class="form-control" name="peso" id="exampleInputEmail1" aria-describedby="emailHelp">
+								</div>
+							</div>
+							<div class="col-4">
+								<label for="exampleInputEmail1" class="form-label">Calçado</label>
+								<select class="form-select" name="calcado" aria-label="Default select example">
+									<option selected value="destro">Destro</option>
+									<option value="canhoto">Canhoto</option>
+								</select>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Pressão</label>
+								<select class="form-select" name="pressao" aria-label="Default select example">
+									<option selected value="normal">Normal</option>
+									<option value="alta">Alta</option>
+									<option value="baixa">Baixa</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Tatuagem</label>
+								<select class="form-select" name="tatuagem" aria-label="Default select example">
+									<option selected value="sim">Sim</option>
+									<option value="nao">Não</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Visível</label>
+								<select class="form-select" name="visivelTatuagem" aria-label="Default select example">
+									<option selected value="visivel">Visível</option>
+									<option value="naoVisivel">Não Visível</option>
+								</select>
+							</div>
+							<div class="col-md-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Onde?</label>
+									<input type="text" class="form-control" name="ondeTatuagem" id="exampleInputEmail1" placeholder="Onde é a tatuagem no seu corpo?">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-4">
+								<label for="exampleInputEmail1" class="form-label">Visão</label>
+								<select class="form-select" name="Visao" aria-label="Default select example">
+									<option selected value="nomal">Normal</option>
+									<option value="miopia">Miopia</option>
+									<option value="astigmatismo">Astigmatismo</option>
+									<option value="hipermetropia">Hipermetropia</option>
+								</select>
+							</div>
+							<div class="col-4">
+								<label for="exampleInputEmail1" class="form-label">Usa Óculos</label>
+								<select class="form-select" name="usaOculos" aria-label="Default select example">
+									<option selected value="sim">Sim</option>
+									<option value="nao">Não</option>
+								</select>
+							</div>
+							<div class="col-4">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Outros - especifique</label>
+									<input type="text" class="form-control" name="outrosEspecifiqueVisao" id="exampleInputEmail1" placeholder="Descreva algum problema de visão se tiver!">
+								</div>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Língua japonesa - Fala:</label>
+								<select class="form-select" name="linguaJaponesaFala" aria-label="Default select example">
+									<option selected value="falaNada">Nada</option>
+									<option value="falaCumprimentos">Cumprimentos</option>
+									<option value="1" value="falaFrasesEPalavras">Frases/Palavras</option>
+									<option value="1" value="falaDiaDia">Dia-a-dia</option>
+									<option value="1" value="falaFluente">Fluente</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Entende: </label>
+								<select class="form-select" name="linguaJaponesaEntende" aria-label="Default select example">
+									<option selected value="entendenNada">Nada</option>
+									<option value="entendeCumprimentos">Cumprimentos</option>
+									<option value="entendeFrasesEPalavras">Frases/Palavras</option>
+									<option value="entendeDiaDia">Dia-a-dia</option>
+									<option value="entendeFluente">Fluente</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Mas: </label>
+								<select class="form-select" name="mas" aria-label="Default select example">
+									<option selected value="masNada">Nada</option>
+									<option value="masHiragana">Hiragana</option>
+									<option value="masKatakana">Katakana</option>
+									<option value="masKanji">Kanji</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Escreve: </label>
+								<select class="form-select" name="linguaJaponesaEscreve" aria-label="Default select example">
+									<option selected value="escreveNada">Nada</option>
+									<option value="escreveHiragana">Hiragana</option>
+									<option value="escreveKatakana">Katakana</option>
+									<option value="escreveKanji">Kanji</option>
+								</select>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Carteira de Motorista:</label>
+								<select class="form-select" name="cartaMotorista" aria-label="Default select example">
+									<option selected value="cartaMotoSim">Sim</option>
+									<option value="cartaMotoNao">Não</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Onde:</label>
+								<select class="form-select" name="cartaMotoOnde" aria-label="Default select example">
+									<option selected value="cartaMotoOndeSim">Brasil</option>
+									<option value="cartaMotoOndeNao">Japão</option>
+								</select>
+							</div>
+							<div class="col-3">
+								<div class="mb-3">
+									<label for="exampleInputEmail1" class="form-label">Outros certificados</label>
+									<input type="text" class="form-control" name="outrosCertificados" id="exampleInputEmail1" placeholder="Certificados">
+								</div>
+							</div>
+							<div class="col-3">
+								<label for="exampleInputEmail1" class="form-label">Anda de bicicleta?</label>
+								<select class="form-select" name="andaBicicleta" aria-label="Default select example">
+									<option selected value="andaBicicletaSim">Sim</option>
+									<option value="andaBicicletaNao">Não</option>
+								</select>
+							</div>
+
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-3">
+							<button type="submit" class="btn btn-primary">Enviar</button>
+
+							</div>
+							<div class="col-3">
+
+							</div>
+						</div>
+					</form>
 
 
 				</div>

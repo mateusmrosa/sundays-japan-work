@@ -1,6 +1,6 @@
 </body>
 <footer id="footer" class="position-relative bg-transparent border-top-0">
-    <svg version="1.1" class="custom-svg-position-4" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 393.35 539.93" data-appear-animation-svg="true">
+    <!-- <svg version="1.1" class="custom-svg-position-4" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 393.35 539.93" data-appear-animation-svg="true">
         <path class="appear-animation" data-appear-animation="customLines1anim" data-appear-animation-delay="450" data-appear-animation-duration="7s" fill="none" stroke="#d8d8d8" stroke-width="2px" stroke-miterlimit="10" d="M28.37,469.29c2.49-4.63,6.2-10.92,11.4-17.87c15.63-20.86,33.61-32.82,43.74-38.64
 						c26.56-15.25,50.74-17.9,60.77-18.89c4.57-0.45,10.99-0.53,23.83-0.68c36.32-0.43,40.17,1.96,58.38,0.17
 						c9-0.89,23.27-2.39,40.51-9.02c11.47-4.41,24.18-9.3,35.91-21.62c4.47-4.69,13.9-14.84,17.7-30.98c4.25-18.05-1.07-32.85-4.26-41.7
@@ -31,7 +31,7 @@
 						c-8.94-18.82-19.41-30.64-32.17-44.81c-9.84-10.92-12.11-11.88-44.3-42c-28.9-27.05-32.97-31.8-35.87-35.36
 						c-8.92-10.95-20.3-25.17-28.34-46.98c-2.77-7.52-11.81-32.78-7.91-59.11c0.78-5.28,2.71-14.86,6.51-25.79
 						c2.36-6.79,4.83-12.33,6.77-16.34" />
-    </svg>
+    </svg> -->
 
     <div class="container pt-5-5 pb-3">
         <div class="row gy-5">

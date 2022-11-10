@@ -44,7 +44,7 @@
 			<div class="row text-center text-md-start py-2">
 				<div class="col p-relative bottom-5">
 
-					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Publicações</h1>
+					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Pontos turísticos no Japão</h1>
 				</div>
 			</div>
 		</div>
@@ -55,34 +55,11 @@
 			<div class="row position-relative z-index-1 pt-5-5">
 				<div class="col-lg-12 mb-5 mb-lg-0">
 
-					<a href="./item-saude-educacao.php">
+					<a href="">
 						<article class="mb-5">
 							<div class="card bg-transparent border-0">
 								<div class="card-body p-0 z-index-1">
-									<a href="./item-saude-educacao.php" data-cursor-effect-hover="plus">
-										<img class="card-img-top rounded-0 mb-2" src="./img/banner/saude-educacao-japao.jpg" alt="Sunday's Japan work">
-									</a>
-									<p class="text-uppercase text-color-default text-1 my-2">
-										<time pubdate datetime="2022-01-10">07 Nov 2022</time>
-										<span class="opacity-3 d-inline-block px-2">|</span>
-										Sunday's Japan Work
-									</p>
-									<div class="card-body p-0">
-										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="./item-saude-educacao.php">Saúde e Educação no Japão</a></h4>
-										<a href="demo-insurance-blog-detail.html" class="text-decoration-none custom-link-hover-effects">
-											Ver Mais
-										</a>
-									</div>
-								</div>
-							</div>
-						</article>
-					</a>
-
-					<a href="./item-pontos-turisticos.php">
-						<article class="mb-5">
-							<div class="card bg-transparent border-0">
-								<div class="card-body p-0 z-index-1">
-									<a href="./item-pontos-turisticos.php" data-cursor-effect-hover="plus">
+									<a href="" data-cursor-effect-hover="plus">
 										<img class="card-img-top rounded-0 mb-2" src="./img/banner/ponto-turisticos-japao.jpg" alt="Sunday's Japan work">
 									</a>
 									<p class="text-uppercase text-color-default text-1 my-2">
@@ -91,49 +68,38 @@
 										Sunday's Japan Work
 									</p>
 									<div class="card-body p-0">
-										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="./item-pontos-turisticos.php">Pontos turísticos mais visitados do Japão</a></h4>
-										<a href="./item-pontos-turisticos.php" class="text-decoration-none custom-link-hover-effects">
-											Ver Mais
-										</a>
+										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="">Pontos turísticos no Japão</a></h4>
+										<div class="card-body">
+											<p class="mb-0">Conhecido como a terra do sol nascente, o Japão é um dos países que mais recebem turistas em todo o mundo. No país, o viajante tem a oportunidade de conhecer uma intrigante mistura de costumes tradicionais e tecnologias das mais modernas. Conhecer a cultura japonesa é, sem dúvida alguma, uma experiência incrível e o país reserva para o turista uma infinidade de pontos turísticos inesquecíveis.
+											</p>
+											<p class="mb-0 font-weight-bold">MONTE FUJI</p>
+											<p class="mb-0">Localizado na ilha de Honshu, entre as províncias de Shizuoka e Yamanashi, o Monte Fuji é parada obrigatória quando pensamos em pontos turísticos do Japão. O vulcão inativo apresenta simetria tão perfeita que parece ter sido esculpido para se tornar um dos símbolos nacionais do Japão.</p>
+											<br>
+											<img class="card-img-top rounded-0 mb-2" src="./img/banner/shibuya.jpg" alt="Sunday's Japan work">
+											<br>
+											<p class="mb-0 font-weight-bold">SHIBUYA</p>
+											<p class="mb-0">A capital japonesa, Tóquio, abriga uma das regiões mais populosas do mundo: Shibuya. É lá que fica o cruzamento mais movimentado do planeta e os prédios com enormes telões de alta definição mostram as novidades do comércio local e global. Os principais restaurantes ficam localizados em Jinnan e Udagawacho e um dos maiores shopping centers do país também está lá, o Shibuya 109.</p>
+											<br>
+											<img class="card-img-top rounded-0 mb-2" src="./img/banner/castelo.JPG" alt="Sunday's Japan work">
+											<p class="mb-0 font-weight-bold">CASTELO DE HIMEJI E MONUMENTOS DE NARA</p>
+											<p class="mb-0">O Castelo de Himeji é um dos mais bonitos de todo o território japonês. Seu principal diferencial é nunca ter sido afetado pelos incontáveis desastres naturais e guerras que fazem parte da história do Japão. Como resultado, o estado de conservação do castelo é impressionante e os detalhes da construção original estão praticamente intactos.
+												Por outro lado, os monumentos históricos de Nara representam o passado do Japão — tanto é que Nara foi a capital do país no começo dos anos 700 d.C. Justamente por ter tido esta importância, Nara apresenta diversas estruturas que serviam as autoridades nacionais, além de muitos museus e templos.</p>
+											<img class="card-img-top rounded-0 mb-2" src="./img/banner/parque-nacional.jpg" alt="Sunday's Japan work">
+											<p class="mb-0 font-weight-bold">CASTELO DE HIMEJI E MONUMENTOS DE NARA</p>
+											<p class="mb-0">Localizado na península com o mesmo nome, o parque nacional de Shiretoko faz parte da província de Hokkaido e é uma das áreas mais isoladas do Japão. Para chegar lá, o turista precisa contratar uma excursão guiada por trilhas que podem demorar até alguns dias. Outra opção é encarar uma viagem de barco, que leva apenas algumas horas. Apesar da dificuldade, a calmaria e a beleza do parque valem qualquer esforço.</p>
+											<img class="card-img-top rounded-0 mb-2" src="./img/banner/templo.jpg" alt="Sunday's Japan work">
+											<p class="mb-0 font-weight-bold">CASTELO DE HIMEJI E MONUMENTOS DE NARA</p>
+											<p class="mb-0">Com suas paredes douradas, às margens de um lago e com uma mata fechada ao fundo, o Templo de Kinkaku-ji é um dos pontos turísticos mais belos do Japão. Uma boa dica para não se perder é conhecer também o nome em inglês do local: Golden Temple.</p>
+										</div>
 									</div>
 								</div>
 							</div>
 						</article>
 					</a>
-
-					<a href="./item-motivos-viver-japao.php">
-						<article class="mb-5">
-							<div class="card bg-transparent border-0">
-								<div class="card-body p-0 z-index-1">
-									<a href="./item-motivos-viver-japao.php" data-cursor-effect-hover="plus">
-										<img class="card-img-top rounded-0 mb-2" src="./img/banner/motivos-vivei-japao.jpg" alt="Sunday's Japan work">
-									</a>
-									<p class="text-uppercase text-color-default text-1 my-2">
-										<time pubdate datetime="2022-01-10">07 Nov 2022</time>
-										<span class="opacity-3 d-inline-block px-2">|</span>
-										Sunday's Japan Work
-									</p>
-									<div class="card-body p-0">
-										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="">15 motivos para viver no Japão</a></h4>
-										<a href="./item-motivos-viver-japao.php" class="text-decoration-none custom-link-hover-effects">
-											Ver Mais
-										</a>
-									</div>
-								</div>
-							</div>
-						</article>
-					</a>
-
-
 				</div>
-
 			</div>
 		</div>
 	</section>
-
-
-
-
 </div>
 </div>
 

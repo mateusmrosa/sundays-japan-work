@@ -1,4 +1,8 @@
-<?php require_once('./variaveis-ambiente.php') ?>
+<?php
+require_once('./util/Funcoes.php');
+$funcoes = new Funcoes();
+
+?>
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -9,7 +13,7 @@
 
     <?php
 
-    switch ($url[4]) {
+    switch ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME'])) {
         case 'index.php':
             $title = 'Home';
             break;
@@ -47,6 +51,12 @@
             $title = 'Shakai Hoken';
         case 'visto-cert-elegibilidade.php':
             $title = 'Visto e Certificado de Elegibilidade';
+        case 'item-saude-educacao.php':
+            $title = 'Saúde e Educação no Japão';
+        case 'item-pontos-turisticos.php';
+            $title = 'Pontos Turísticos mais visitados do Japão';
+        case 'item-motivos-viver-japao.php';
+            $title = 'Motivos para viver no Japão';
         default;
     }
     ?>

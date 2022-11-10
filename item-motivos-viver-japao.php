@@ -44,7 +44,7 @@
 			<div class="row text-center text-md-start py-2">
 				<div class="col p-relative bottom-5">
 
-					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Publicações</h1>
+					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">15 motivos para viver no Japão</h1>
 				</div>
 			</div>
 		</div>
@@ -55,57 +55,11 @@
 			<div class="row position-relative z-index-1 pt-5-5">
 				<div class="col-lg-12 mb-5 mb-lg-0">
 
-					<a href="./item-saude-educacao.php">
+					<a href="">
 						<article class="mb-5">
 							<div class="card bg-transparent border-0">
 								<div class="card-body p-0 z-index-1">
-									<a href="./item-saude-educacao.php" data-cursor-effect-hover="plus">
-										<img class="card-img-top rounded-0 mb-2" src="./img/banner/saude-educacao-japao.jpg" alt="Sunday's Japan work">
-									</a>
-									<p class="text-uppercase text-color-default text-1 my-2">
-										<time pubdate datetime="2022-01-10">07 Nov 2022</time>
-										<span class="opacity-3 d-inline-block px-2">|</span>
-										Sunday's Japan Work
-									</p>
-									<div class="card-body p-0">
-										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="./item-saude-educacao.php">Saúde e Educação no Japão</a></h4>
-										<a href="demo-insurance-blog-detail.html" class="text-decoration-none custom-link-hover-effects">
-											Ver Mais
-										</a>
-									</div>
-								</div>
-							</div>
-						</article>
-					</a>
-
-					<a href="./item-pontos-turisticos.php">
-						<article class="mb-5">
-							<div class="card bg-transparent border-0">
-								<div class="card-body p-0 z-index-1">
-									<a href="./item-pontos-turisticos.php" data-cursor-effect-hover="plus">
-										<img class="card-img-top rounded-0 mb-2" src="./img/banner/ponto-turisticos-japao.jpg" alt="Sunday's Japan work">
-									</a>
-									<p class="text-uppercase text-color-default text-1 my-2">
-										<time pubdate datetime="2022-01-10">07 Nov 2022</time>
-										<span class="opacity-3 d-inline-block px-2">|</span>
-										Sunday's Japan Work
-									</p>
-									<div class="card-body p-0">
-										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="./item-pontos-turisticos.php">Pontos turísticos mais visitados do Japão</a></h4>
-										<a href="./item-pontos-turisticos.php" class="text-decoration-none custom-link-hover-effects">
-											Ver Mais
-										</a>
-									</div>
-								</div>
-							</div>
-						</article>
-					</a>
-
-					<a href="./item-motivos-viver-japao.php">
-						<article class="mb-5">
-							<div class="card bg-transparent border-0">
-								<div class="card-body p-0 z-index-1">
-									<a href="./item-motivos-viver-japao.php" data-cursor-effect-hover="plus">
+									<a href="" data-cursor-effect-hover="plus">
 										<img class="card-img-top rounded-0 mb-2" src="./img/banner/motivos-vivei-japao.jpg" alt="Sunday's Japan work">
 									</a>
 									<p class="text-uppercase text-color-default text-1 my-2">
@@ -115,25 +69,93 @@
 									</p>
 									<div class="card-body p-0">
 										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="">15 motivos para viver no Japão</a></h4>
-										<a href="./item-motivos-viver-japao.php" class="text-decoration-none custom-link-hover-effects">
-											Ver Mais
-										</a>
+										<div class="card-body">
+											<p class="mb-0">
+												Existem muitos motivos para se viver na terra do sol nascente, vamos listar alguns dos principais aqui:
+												<br><br>
+												<b> 1- Um dos países mais seguros do mundo</b>
+												<br><br>
+
+												O Japão esta sempre listado no top 10 dos países mais seguros do mundo de acordo com pesquisas de órgãos internacionais. Na pesquisa da “Social Progress imperative” de 2014 ficou em 6° lugar dentre os países mais seguros do mundo, o Brasil ficou na posição 122 do ranking.
+
+												É comum as crianças irem sozinhas para a escola a partir dos 5 anos, e em muitas cidades os policias não andam armados, por que simplesmente não há necessidade.
+												<br><br>
+												<b>2- Renda Alta $$$</b>
+												<br><br>
+												Um dos países com renda mais alta e com menos desigualdade social no mundo.
+												<br><br>
+												<b>3- Estabilidade financeira</b>
+												<br><br>
+												No Japão mais do que em qualquer lugar a afirmativa “trabalhe duro e ganhe dinheiro” é realmente verdadeira, sempre há trabalho para aqueles que querem suar a camisa e ter um padrão de vida razoável.
+												<br><br>
+												<b>4- Economia Forte</b>
+												<br><br>
+												Atualmente é a terceira maior economia do mundo, depois de EUA e China, mas foi durante muito tempo a segunda atrás apenas dos EUA.
+												<br><br>
+												<b>5- transporte público eficiente</b>
+												<br><br>
+												O transporte publico no Japão esta em um patamar que é difícil de imaginar, é eficiente, limpo, pontual e prático, o transporte mais comum é o trem, que conta com mais de 25.000 quilômetros de extensão de linhas férreas, é possível ir de trem para praticamente qualquer lugar do Japão.
+												<br><br>
+												<b>6- Pontualidade</b>
+												<br><br>
+												A pontualidade faz parte da cultura japonesa, tudo é planejado e pontual, o atraso é uma ofensa para o povo japonês, até os ônibus de Tóquio calculam exatamente o tempo de trajeto e transito e chegam pontualmente as suas paradas, seja 09:21 ou 21:58 estão sempre no horário em respeito aos que necessitam.
+												<br><br>
+												<b>7- Honestidade</b>
+												<br><br>
+												No Japão sempre parte-se do principio que todos são honestos, e a conduta de honestidade é constante na vida dária.
+
+												Após o tsunami de 2011 foram encontrados cerca de R$125 milhões em cofres particulares e destroços e que foram devolvidos devidamente aos seus respectivos donos. Impressionante?
+
+												Os japoneses acham normal.
+												<br><br>
+												<b>8- Limpeza e reciclagem</b>
+												<br><br>
+												Tudo no Japão é muito limpo, não se vê nem uma bituca de cigarro ou um pedaço de papel amassado nas ruas.
+
+												O sistema de coleta de lixo é selecionada em todos os lugares, e as regras devem ser seguidas à risca, sujeito a multas para quem não seguir as regras de reciclagem.
+												<br><br>
+												<b> 9- Cultura Riquíssima</b>
+												<br><br>
+												Da cultura tradicional a cultura pop, a cultura japonesa é muito rica com costumes únicos em vários aspectos como na alimentação, vestimentas, literatura, caligrafia, historia e o mais importante aspecto, o respeito à propria cultura.
+												<br><br>
+												<b>10- Uma terra cheia de contrastes</b>
+												<br><br>
+												Trabalhadores, estudantes, monges, cosplayers, punks, lutadores de sumo, jogadores de futebol, ruas modernas cheias de luzes e parques silenciosos cheios de natureza, tudo isso pode ser encontrado em um só bairro ou em um quarteirão.
+												<br><br>
+												<b>11- Alimentação</b>
+												<br><br>
+												Só sushi e sashimi? Não, a culinária japonesa é cheia de descobertas, de técnicas milenares a fast foods inovadores, e os sabores são sempre variados.
+												<br><br>
+												<b>12- Belezas naturais</b>
+												<br><br>
+												Diferente do que muitos pensam o Japão não é uma selva de pedra onde só tem prédios e asfalto e as pessoas não se amontoam porque não tem espaço.
+
+												Existem muitas belezas naturais nas cidades e no interior, a preservação é um fator de grande importância para o país e para os japoneses.
+												<br><br>
+												<b>13- Estações do ano</b>
+												<br><br>
+												As estações do ano são muito bem definidas proporcionando uma paisagem única a cada estação.
+												<br><br>
+												<b>14- Qualidade de vida</b>
+												<br><br>
+												Tudo contribui para uma ótima qualidade de vida no Japão, a segurança , a renda alta, uma população educada e honesta, entre outros fatores além dos mencionados anteriormente.
+												<br><br>
+												<b>15- Tudo funciona</b>
+												<br><br>
+												No Japão se tem a “estranha sensação” de que tudo funciona.
+
+												Você trabalha e tem reconhecimento financeiro pelo seu trabalho, você paga impostos e em retorno tem um sistema público eficiente em praticamente tudo, tudo é rápido, pontual e prático.
+											</p>
+										</div>
 									</div>
 								</div>
 							</div>
 						</article>
 					</a>
-
-
 				</div>
-
 			</div>
 		</div>
 	</section>
-
-
-
-
 </div>
 </div>
 

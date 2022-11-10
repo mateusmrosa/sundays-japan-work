@@ -1,4 +1,7 @@
-<?php require_once('./variaveis-ambiente.php'); ?>
+<?php
+require_once('./util/Funcoes.php');
+$funcoes = new Funcoes();
+?>
 
 <header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyStartAt': 70, 'stickySetTop': '-70px', 'stickyChangeLogo': true}">
     <div class="header-body border-0 box-shadow-none">
@@ -62,36 +65,36 @@
                                     <nav class="collapse">
                                         <ul class="nav nav-pills" id="mainNav">
                                             <li>
-                                                <a class="nav-link <?php echo ($url[4] == 'index.php' ? 'active' : '') ?>" href="index.php">
+                                                <a class="nav-link <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']))  == 'index.php' ? 'active' : '' ?>" href="index.php">
                                                     Home
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="nav-link <?php echo ($url[4] == 'preencher-curriculum.php' ? 'active' : '') ?>" href="preencher-curriculum.php">
+                                                <a class="nav-link <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) == 'preencher-curriculum.php' ? 'active' : '') ?>" href="preencher-curriculum.php">
                                                     Preencher Curriculum
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="nav-link <?php echo ($url[4] == 'empresa.php' ? 'active' : '') ?>" href="empresa.php">
+                                                <a class="nav-link <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) == 'empresa.php' ? 'active' : '') ?>" href="empresa.php">
                                                     Empresa </a>
                                             </li>
                                             <li class="dropdown">
-                                                <a class="nav-link dropdown-toggle <?php echo ($url[4] == 'servicos.php' ? 'active' : '') ?>" href="servicos.php">
+                                                <a class="nav-link dropdown-toggle <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) == 'servicos.php' ? 'active' : '') ?>" href="servicos.php">
                                                     Serviços
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="nav-link <?php echo ($url[4] == 'informacoes.php' ? 'active' : '') ?>" href="informacoes.php">
+                                                <a class="nav-link <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) == 'informacoes.php' ? 'active' : '') ?>" href="informacoes.php">
                                                     Informações
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="nav-link <?php echo ($url[4] == 'videos.php' ? 'active' : '') ?>" href="videos.php">
+                                                <a class="nav-link <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) == 'videos.php' ? 'active' : '') ?>" href="videos.php">
                                                     Vídeos
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="nav-link <?php echo ($url[4] == 'publicacoes.php' ? 'active' : '') ?>" href="publicacoes.php">
+                                                <a class="nav-link <?php echo ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) == 'publicacoes.php' ? 'active' : '') ?>" href="publicacoes.php">
                                                     Publicações
                                                 </a>
                                             </li>
@@ -99,7 +102,7 @@
                                     </nav>
                                 </div>
                             </div>
-                            <?php if ($url[4] != 'contato.php') { ?>
+                            <?php if ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) != 'contato.php') { ?>
                                 <div>
                                     <a href="contato.php" class="position-relative top-5 btn btn-outline btn-rounded btn-secondary text-2 font-weight-bold text-uppercase px-5 btn-py-2 mb-3">CONTATO</a>
                                     <button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">

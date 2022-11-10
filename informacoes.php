@@ -1369,6 +1369,209 @@
 													<li>Como foi o resultado do exame? –&nbsp;<i>Kensa no kekka wa dou desuka?</i></li>
 												</ul>
 											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Educação</p>
+												<p class="mb-0">
+													O sistema escolar japonês constitui-se, basicamente, de 6 anos de ensino primário (shoogakkoo) e 3 de ensino ginasial (chuugakkoo) – equivalentes ao Ensino Fundamental no Brasil – 3 anos de colégio (kookoo) – equivalente ao Ensino Médio no Brasil e 4 anos de curso superior.
+
+													Todos os japoneses devem cumprir os 9 anos de estudo – primário (de 6 a 12 anos) e ginasial (de 12 a 15 anos). Nessa fase, não há sistema de reprovação, a criança passa de uma série para outra automaticamente. Crianças estrangeiras também podem ingressar nessas escolas. Para ingressar em escolas do ensino médio ou superior, os alunos devem prestar uma espécie de vestibular.
+
+													No Japão, existem cursos pré-escolares (jardim de infância ou maternal), profissionalizantes e escolas especiais destinadas a deficientes. Há escolas públicas (divididas em nacionais, provinciais e municipais), as particulares e as internacionais.
+
+													Lá, a maioria das escolas de ensino fundamental e médio é pública.
+
+													O ano letivo inicia em abril e termina em março do ano seguinte. As férias prolongadas são de verão, de inverno e de primavera.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Creche</p>
+												<p class="mb-0">
+													Há dois tipos de creche: pública e particular.
+
+													Para matricular o filho em uma creche pública, os pais devem comprovar que ambos trabalham ou que haja algum problema que impeça os pais de cuidarem do filho em casa, como doença, por exemplo.
+
+													A mensalidade varia de acordo com a renda familiar. Se tiver uma renda alta, o preço pode ser igual ao de uma creche privada.
+
+													Por outro lado, há a possibilidade de obter isenção no pagamento, caso os pais tenham muitos filhos e comprove que a renda é insuficiente para manter todos.
+
+													As matrículas são feitas nos meses de dezembro e janeiro, na prefeitura. Se houver vagas, há creches que aceitam crianças fora de época. São exigidos dos pais o comprovante de trabalho, de renda e de pagamento de imposto.
+
+													As creches públicas têm horários fixos e não aceitam cuidar de crianças fora do horário de atendimento.
+
+													As creches particulares que são autorizadas pelo governo recebem subsídio, mas cobram mensalidade e o procedimento de matrícula é semelhante ao das creches públicas. Para as não autorizadas, não há requisitos ou período de matrícula.
+
+													A maior parte das creches privadas aceitam cuidar das crianças em horários prolongados (algumas funcionam 24 horas), mediante pagamento de uma taxa extra.
+
+													A idade de admissão varia de acordo com a creche, mas muitas aceitam bebês a partir de dois meses de idade. Já as creches públicas nem sempre aceitam recém-nascidos.
+
+													Existem creches em tempo parcial, para pais que trabalham meio período ou em regime temporário (alguns dias por semana).
+
+
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Jardim de Infância</p>
+												<p class="mb-0">
+													Os jardins de infância, que também são divididos em públicos e particulares, aceitam crianças entre 3 e 5 anos de idade. A matrícula para as instituições públicas deve ser feita na Secretaria da Educação do município, geralmente em outubro. As mensalidades variam de acordo com a cidade. As particulares têm suas próprias datas de matrícula e cobram mensalidades mais caras.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Shoogakkoo e Chuugakkoo</p>
+												<p class="mb-0">
+													Para ingressar no Shoogakkoo (crianças com 6 anos completos), a Secretaria da Educação da prefeitura envia comunicado quando a criança estiver para completar a idade escolar.
+
+													Os estrangeiros não são obrigados a enviar os filhos à escola, mas poderão ser atendidos mediante solicitação.
+
+													A criança que já frequentava o ensino fundamental no Brasil e quiser ingressar na escola japonesa deve fazer registro de estrangeiro na prefeitura e efetuar os trâmites para admissão no meio do ano letivo na Secretaria da Educação.
+
+													É necessário apresentar a carteira de registro de estrangeiro e o passaporte. Com posse do comunicado de matrícula, devem se dirigir até a escola indicada pela prefeitura, de acordo com o local em que a família reside.
+
+													As crianças que completarem o shoogakkoo podem ingressar automaticamente no choogakkoo.
+
+													Normalmente, as matrículas têm início no outono. A prefeitura encaminha comunicado com as informações referentes sobre a escola, dia em que será realizado o exame médicos e outras informações pertinentes à matrícula.
+
+													Caso os pais trabalhem em horário integral, podem solicitar para os filhos que cursam da primeira a terceira série do shoogakkoo atendimento especial. Assim, após o término das aulas, por volta das 15h, permanecem no local recebendo orientação e brincando. A inscrição para esse atendimento deve ser feita na prefeitura ou no clube. </p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Ensino Médio</p>
+												<p class="mb-0">
+													No Japão, o ensino médio é dividido em:
+												</p>
+												<ul>
+													<li>escola regular</li>
+													<li>escola profissionalizante (cursos na área da indústria, comércio, agricultura, línguas estrangeiras, entre outros)</li>
+													<li>ensino globalizado.</li>
+												</ul>
+												<p class="mb-0">O candidato deve prestar exame de admissão que normalmente acontece entre o final de fevereiro e início de março. Há escolas onde a admissão poderá ser autorizada através de recomendação.
+													Para prestar o exame é necessário que o candidato tenha completado o ensino fundamental, ou apresente uma escolaridade equivalente, como por exemplo a conclusão do ensino fundamental do país onde residiu.</p>
+												<p class="mb-0">Há 3 tipos de escolas:</p>
+												<ul>
+													<li>Período integral: curso diurno com 3 anos de duração</li>
+													<li>Período parcial: curso diurno ou noturno, para alunos que trabalham (existem escolas diurnas de meio período)</li>
+													<li>Curso por correspondência: para alunos que trabalham e outros que não podem frequentar as aulas por algum motivo.</li>
+												</ul>
+												<p class="mb-0">Toda escola de ensino médio cobra mensalidade, mas existem diferenças entre as públicas e particulares. Consultas sobre escolas públicas devem ser feitas na Secretaria da Educação da província; sobre as particulares, nas próprias escolas.</p>
+												<p class="mb-0"><b>Despesas e utensílios:</b> </p>
+												<p class="mb-0">As aulas e os livros didáticos do shoogakkoo e chuugakkoo são gratuitos. No entanto, é necessário pagar pelo uniforme, merenda, artigos escolares, atividade extra-curricular e viagens. Para as famílias com dificuldades financeiras, os governos locais oferecem subsídio escolar. Os requisitos e valor variam conforme a cidade. Mães solteiras, divorciadas ou viúvas também têm direito a auxílio especial.</p>
+												<p class="mb-0"><b>Ao voltar para o Brasil:</b> </p>
+												<p class="mb-0">Quando retornar ao Brasil, deve-se obter da escola japonesa certificado dos estudos cursados pelo aluno. Esse certificado dever ter a assinatura (ou carimbo) do diretor da escola. Em seguida, deve ser levado ao Ministério das Relações Exteriores no Japão para reconhecimento da assinatura do diretor da escola.
+													Após o reconhecimento, o documento escolar deverá ser levado ao Consulado do Brasil para validação, para que tenha efeitos legais em território brasileiro. Ao chegar no Brasil, o documento escolar deverá ser traduzido para o português para apresentação ao estabelecimento de ensino em que o aluno venha a ser matriculado (indagar antes junto à instituição se é necessária a assinatura de tradutor juramentado).
+												</p>
+
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Escolas brasileiras</p>
+												<p class="mb-0">
+													Existem várias escolas brasileiras de ensino fundamental e médio instaladas no Japão, especialmente nas províncias com grande concentração de brasileiros.
+													Muitas dessas escolas foram homologadas pelo Ministério da Educação do Brasil e os certificados emitidos por elas são aceitos para todos os fins de direito. Elas seguem as Diretrizes Curriculares Nacionais, ou seja, ministram os cursos obrigatórios em instituições educacionais no Brasil, além do idioma japonês.
+													O currículo de algumas dessas escolas foi reconhecido oficialmente pelo Ministério da Educação, Cultura, Esporte e Ciência e Tecnologia do Japão, habilitando seus alunos a prestarem vestibular para as universidades japonesas, desde que concluam 12 anos de estudo.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Exame supletivo</p>
+												<p class="mb-0">
+													O Ministério da Educação e o Ministério das Relações Exteriores do Brasil aplicam, anualmente, exames supletivos em nível de conclusão de ensino fundamental e médio. No primeiro caso, o interessado precisa ter mais de 15 anos e, no segundo caso, ser maior de 18 anos.
+													As inscrições ocorrem entre os meses de junho e agosto, e podem ser feitas nos consulados do Brasil em Tokyo e Nagoya ou pelo site do Departamento de Ensino de Jovens e Adultos da Secretaria de Educação do Paraná (www.pr.gov.br/deja). Os exames são realizados, normalmente, no mês de outubro.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Ensino Superior</p>
+												<p class="mb-0">
+													No Japão, o ensino superior abrange universidades (daigaku), curso superior de tempo reduzido (tanki daigaku) e escolas profissionalizantes ou técnicas (senmon gakkoo).
+
+													As aulas iniciam no mês de abril e encerram no mês de março do ano seguinte. Para poder cursar uma universidade é necessário prestar os exames de ingresso (nyuugaku shiken).
+
+													O curso superior de tempo reduzido é conduzido com uma duração média de 2 ou 3 anos, e as pessoas que completarem os créditos necessários à formatura, recebem titulo de bacharel júnior. O curso superior com tempo reduzido oferece ao aluno a formação em nível técnico, com cursos práticos para a carreira escolhida.
+
+													O curso superior pleno tem duração de 4 anos, mas os cursos de veterinária, medicina e odontologia são de 6 anos. O aluno formado recebe o titulo de bacharel. No geral, os cursos de nível superior são divididos em ciências (engenharia, medicina, agricultura etc) e humanas (cursos na área de literatura, direito e economia).
+
+													O curso de pós-graduação em nível de mestrado (shuushi katei), de 2 anos, ou de doutorado (kakushi katei), de 3 anos, exige que o interessado receba orientação na condução de pesquisas, complete os créditos necessários, apresente e defenda a sua tese, que será avaliada por uma banca examinadora, para então receber o título de mestre ou de doutor.
+
+													A seleção dos alunos para esses cursos é feita com base em um exame, desempenho no curso de graduação e recomendação de professores.
+
+													O aluno que concluir o ensino médio em estabelecimento de ensino japonês deve prestar o mesmo exame imposto aos alunos japoneses. Os que concluíram o ensino médio em outro país devem prestar exame específico para estrangeiros, chamado de Exame de Admissão em Universidade Japonesa para Estudantes Estrangeiros.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Universidades Publicas</p>
+												<p class="mb-0">
+													Para entrar em uma universidade pública é necessário realizar o exame de ingresso geral das universidades, chamado Sentaa Shiken. Este exame é cobrado por disciplina. Algumas universidades particulares também aplicam esse exame.
+
+													Existem 32 disciplinas, mas primeiro é preciso verificar qual o programa acadêmico imposto pela universidade ou faculdade de interesse do candidato.
+
+													A inscrição dever ser feita em outubro e os exames, em janeiro. O período de inscrição varia de acordo com a instituição.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Universidades Particulares</p>
+												<p class="mb-0">
+													Há 3 maneiras de fazer os exames de ingresso para a universidade particular (shiritsu daigaku): o mesmo das universidades públicas (sentaa shiken), o exame geral (ippan nyuushi) e o exame com a carta de recomendação do colégio (suisen nyuushi).
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Universitários estrangeiros</p>
+												<p class="mb-0">
+													Para ingressar na universidade, o Ministério da Educação, Cultura, Esporte, Ciência e Tecnologia do Japão exige educação escolar de 12 anos. Assim, para quem cumpriu currículo educacional de 11 anos, deverá estudar japonês durante 1 ano nas escolas designadas pelo ministério.
+
+													Hoje, as instituições de ensino superior aceitam o Exame de Admissão em Universidade Japonesa para Estudantes Estrangeiros, que substitui o antigo exame geral ara estrangeiros e o exame de proficiência.
+
+													O exame de proficiência ainda é exigido por algumas instituições para cursos de pós-graduação.
+
+													O Exame de Admissão inclui as seguintes matérias: japonês, ciências (física, química e biologia), matemática, Japão e o mundo.
+
+													O idioma utilizado é o inglês ou japonês.
+
+													<b> Mais informações:</b> <a href="https://www.jasso.go.jp/" target="_blank">Clique Aqui!</a>
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Cursos profissionalizantes</p>
+												<p class="mb-0">Há 2 tipos de cursos profissionalizantes:</p>
+												<ul>
+													<li>para alunos que completaram o ensino médio (senmon gakkoo);</li>
+													<li>para alunos que completaram o ensino fundamental (kootoo senmon gakkoo).</li>
+												</ul>
+												<p class="mb-0">O kootoo senmon gakkoo qualifica estudantes como técnico industrial. Normalmente, o curso dura 5 anos.
+													O senmon gakkoo pode ter duração de 1 a 4 anos, dependendo do curso, e qualifica o profissional com licença para atuar em sua área.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Escolas Técnicas</p>
+												<p class="mb-0">Algumas escolas técnicas ministram cursos técnicos, como eletrônica, mecânica, soldagem, enfermagem, cabeleireiro, cozinheiro, secretariado, computação, desenho entre outros, em um tempo relativamente curto.</p>
+												<p class="mb-0"><b>Bolsas de estudo</b></p>
+												<p class="mb-0">Existem várias bolsas de estudo para pessoas com dificuldade financeira. Após a conclusão do curso o beneficiado deve efetuar a devolução do financiamento, em parcelas. Normalmente, o aluno faz a solicitação após ingressar na universidade, mas há a possibilidade de solicitá-la ainda enquanto cursa o ensino médio.
+													Uma bolsa muito requisitasa é a da Nihon Ikueikai (Fundação Nacional de Bolsas de Estudos), que exige do candidato a declaração de imposto de renda comprovando a situação financeira. Além de provar não ser capaz de arcar com as despesas da universidade, o aluno deve apresentar bom rendimento acadêmico e bom estado de saúde. O pagamento é feito um ano após o término do empréstimo.
+													Mais informações sobre bolsas de estudo no site do Consulado do Japão, em São Paulo: www.sp.br.emb-japan.go.jp ou no Consulado do Japão, no Rio de Janeiro: www.rio.br.emb-japan.go.jp
+												</p>
+												<ul>
+													<li>para alunos que completaram o ensino médio (senmon gakkoo);</li>
+													<li>para alunos que completaram o ensino fundamental (kootoo senmon gakkoo).</li>
+												</ul>
+												<p class="mb-0">O kootoo senmon gakkoo qualifica estudantes como técnico industrial. Normalmente, o curso dura 5 anos.
+													O senmon gakkoo pode ter duração de 1 a 4 anos, dependendo do curso, e qualifica o profissional com licença para atuar em sua área.
+												</p>
+											</div>
+
+											<div class="card-body">
+												<p class="mb-0 font-weight-semibold">Prova de proficiência</p>
+												<p class="mb-0">A prova de proficiência de japonês (Nihongo Nooryoku Shiken) tem como objetivo avaliar o nível de domínio do idioma de pessoas que não têm o japonês como língua materna, no Japão e no Exterior, e certificar o nível do seu conhecimento. É realizado pela Nihon Gakusei Shienkikoo.
+													O exame é dividido em 4 níveis decrescentes, do mais fácil (nível 4) para o mais difícil (nível 1). Os exames são compostos de 3 partes: domínio dos caracteres, compreensão escrita e falada e gramática.
+												</p>
+											</div>
+
 										</div>
 									</div>
 
@@ -1382,8 +1585,51 @@
 										</div>
 										<div id="collapse1Six" class="collapse" aria-labelledby="collapse1HeadingSix" data-bs-parent="#accordion1">
 											<div class="card-body">
-												<p class="mb-0">As consultas clínicas no Japão estão entre as mais caras do mundo. Por isso, compensa o registro em um dos planos de saúde sustentados pelo governo. Imigrantes que ficam mais de 1 ano no país têm a possibilidade de se inscrever no Kokumin Kenkou Hoken, o seguro médico público. Há diferenciais entre os preços cobrados em cada município.
-													Existe também a proteção para assalariados, em que o empregador é quem cadastra o funcionário. Nesse tipo de plano, o empregador paga metade das taxas, e o empregado, a outra, que é descontada na folha de pagamento. Muitos preferem não pagar a apólice para evitar mais descontos, mas o alto custo de um tratamento médico compensa o pagamento do plano.
+												<p class="mb-0">O salário mínimo no Japão não é praticado. Lá o trabalho é remunerado por hora trabalhada.
+
+													Os motoristas de caminhões recebem por viagem executada (comissão).
+
+													A média salarial para homem é de ¥ 1200 por hora, mas dependendo do currículo e tipo de serviço, do domínio da língua japonesa, os salários podem aumentar, chegando o trabalhador a ser remunerado em até ¥ 1500 ou ¥ 1600 por hora.
+
+													As mulheres tem salário menor que o dos homens, sendo a média salarial delas em torno de ¥ 900 por hora.
+
+													Geralmente os serviços mais pesados tem salários melhores do que os mais leves.
+
+													O operário não recebe durante a hora de descanso, na hora das refeições ou nos intervalos.
+
+													Considerando 8 horas normais, o homem que ganha ¥ 1200 por hora vai receber ¥ 9600 por dia, enquanto que a mulher com salário de ¥ 900 por hora trabalhadas, a quantia de ¥ 7200.
+
+													O trabalhador que faltar ao trabalho não recebe nada. Só recebe se trabalhar.
+
+													As férias prolongadas também não são remuneradas, assim como as horas de descanso.
+
+													Os estrangeiros, incluindo os brasileiros, também recebem os benefícios e bônus que os japoneses recebem.
+
+													O trabalhador no Japão recebe através de algumas empresas, dois bônus anuais, equivalente ao 13º salário. Mas é bom frisar que não são todas as empresas japonesas que pagam esse bônus.
+
+													Ganha-se muito bem no Japão, mas é preciso atentar para os gastos que são altos e podem comprometer os vencimentos do trabalhador se não houver planejamento das despesas.
+
+													Os que viajam ao Japão com objetivo claro e definido de fazer economia para aplicar no Brasil, acabam tendo sucesso.
+
+													O trabalhador recebe um acréscimo de 25% no horário noturno (das 22h às 05h do dia seguinte) e no trabalho executado aos sábados (6º dia).
+
+													O operário é obrigado a pagar o Shakai Hoken (seguro saúde e aposentadoria). O desconto no salário é de mais ou menos 12%. O Shakai Hoken cobre de 60% a 70% das despesas médicas.
+
+													A cobertura do Seguro Desemprego é de 60% dos empregadores e 40% dos empregados.
+
+													No Japão, nada é de graça. Paga-se imposto de renda, descontado no salário, na fonte (5% a 7% do salário).
+
+													O imposto varia de acordo com a faixa salarial e o nº de dependentes.
+
+													Se o estrangeiro não estiver na condição de residente, o imposto será de 20%.
+
+													O imposto de consumo no Japão é de 5%.
+
+													O imposto residencial é cobrado do trabalhador, com 10% sobre o salário liquido. Pode abater se tiver dependente. Pode-se dizer que é o imposto para existir no Japão. Esse imposto é da prefeitura onde o trabalhador reside. O valor desse imposto é definido em Junho.
+
+													Pessoa com idade entre 40 a 65 anos pagam o seguro de assistência a idosos (2,23% do salário). Anualmente, há aumento da contribuição no valor de 0,354%.
+
+													A empresa empregadora também é obrigada a pagar o seguro social (Shakai Hoken) nas mesmas porcentagens dos empregados, citadas acima (4,1% a 7,321%)..
 												</p>
 											</div>
 										</div>
