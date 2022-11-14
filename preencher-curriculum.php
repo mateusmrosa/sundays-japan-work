@@ -104,46 +104,47 @@
 							</div>
 							<div class=" col-md-6">
 								<label for="exampleInputEmail1" class="form-label">Nome</label>
-								<input type="email" class="form-control" name="nome" id="exampleInputEmail1" aria-describedby="emailHelp">
+								<input type="text" class="form-control" name="nome" id="exampleInputEmail1" placeholder="Seu nome">
 							</div>
 						</div>
 						<br>
+
 						<div class="row">
 							<div class="col-md-3">
 								<label class="form-check-label" for="exampleCheck1">Objetivo da viagem:</label>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3 form-check">
-									<input type="checkbox" class="form-check-input" name="objFinanceiro" id="exampleCheck1">
-									<label class="form-check-label" for="exampleCheck1">Financeiro</label>
+									<input type="checkbox" class="form-check-input" onclick="desativarCheckBoxCultural()" name="checkBoxFinanceiro" id="checkBoxFinanceiro">
+									<label class="form-check-label">Financeiro</label>
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3 form-check">
-									<input type="checkbox" class="form-check-input" id="exampleCheck1">
-									<label class="form-check-label" name="objCultural" for="exampleCheck1">Cultural</label>
+									<input type="checkbox" class="form-check-input" onclick="desativarcheckBoxFinanceiro()" name="checkBoxCultural" id="checkBoxCultural">
+									<label class="form-check-label">Cultural</label>
 								</div>
 							</div>
 						</div>
 						<div class="mb-3">
 							<label for="exampleInputEmail1" class="form-label">Especifique</label>
-							<input type="email" class="form-control" name="especifique" id="exampleInputEmail1" aria-describedby="emailHelp">
+							<input type="text" class="form-control" name="especifique" id="exampleInputEmail1" placeholder="Especifique o motivo da viagem">
 						</div>
 						<br>
 						<div class="row">
 							<div class="col-md-3">
-								<label class="form-check-label" for="exampleCheck1">Sexo:</label>
+								<label class="form-check-label">Sexo:</label>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3 form-check">
-									<input type="checkbox" class="form-check-input" name="masculino" id="exampleCheck1">
-									<label class="form-check-label" for="exampleCheck1">Masculino</label>
+									<input type="checkbox" class="form-check-input" onclick="desativarCheckBoxFeminino()" name="checkBoxMasculino" id="checkBoxMasculino">
+									<label class="form-check-label">Masculino</label>
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3 form-check">
-									<input type="checkbox" class="form-check-input" name="feminino" id="exampleCheck1">
-									<label class="form-check-label" for="exampleCheck1">Feminino</label>
+									<input type="checkbox" class="form-check-input" onclick="desativarCheckBoxMasculino()" name="checkBoxFeminino" id="checkBoxFeminino">
+									<label class="form-check-label">Feminino</label>
 								</div>
 							</div>
 						</div>
@@ -152,7 +153,7 @@
 							<div class="col-6">
 								<div class="mb-">
 									<label for="exampleInputEmail1" class="form-label">Idade</label>
-									<input type="email" class="form-control" name="idade" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="idade" id="exampleInputEmail1" placeholder="Idade">
 								</div>
 							</div>
 							<div class="col-6">
@@ -172,25 +173,25 @@
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Rua</label>
-									<input type="text" class="form-control" name="rua" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="rua" id="exampleInputEmail1" placeholder="Rua">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">CEP</label>
-									<input type="email" class="form-control" name="cep" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="cep" id="exampleInputEmail1" placeholder="Cep">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Cidade</label>
-									<input type="email" class="form-control" name="cidade" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="cidade" id="exampleInputEmail1" placeholder="Cidade">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Estado</label>
-									<input type="email" class="form-control" name="estado" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="estado" id="exampleInputEmail1" placeholder="Estado">
 								</div>
 							</div>
 						</div>
@@ -199,25 +200,25 @@
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Telefone</label>
-									<input type="email" class="form-control" name="telefone" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="tel" class="form-control" maxlength="15" onkeyup="mascaraTelefone(event)" name="telefone" id="exampleInputEmail1" placeholder="Apenas números">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">E-mail</label>
-									<input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="email" class="form-control" name="email" id="exampleInputEmail1" placeholder="E-mail">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">RG</label>
-									<input type="email" class="form-control" name="rg" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="rg" id="exampleInputEmail1" placeholder="RG">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">CPF</label>
-									<input type="email" class="form-control" name="cpf" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="cpf" id="exampleInputEmail1" placeholder="CPF">
 								</div>
 							</div>
 						</div>
@@ -241,13 +242,13 @@
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Tempo de casado</label>
-									<input type="text" class="form-control" name="tempoCasado" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="tempoCasado" id="exampleInputEmail1" placeholder="Tempo de Casado">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Nome do conjuge</label>
-									<input type="text" class="form-control" name="nomeConjuge" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="nomeConjuge" id="exampleInputEmail1" placeholder="Nome do conjuge">
 								</div>
 							</div>
 						</div>
@@ -263,7 +264,7 @@
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Quantidade de filhos</label>
-									<input type="number" class="form-control" name="qtdeFilhos" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="number" class="form-control" min="0" name="qtdeFilhos" id="exampleInputEmail1" aria-describedby="emailHelp">
 								</div>
 							</div>
 
@@ -348,13 +349,13 @@
 							<div class="col-md-6">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Nome do pai</label>
-									<input type="date" class="form-control" name="nomeDoPai" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="nomeDoPai" id="exampleInputEmail1" placeholder="Nome do pai">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Nome da mãe</label>
-									<input type="date" class="form-control" name="nomeDaMae" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="nomeDaMae" id="exampleInputEmail1" placeholder="Nome da mãe">
 								</div>
 							</div>
 						</div>
@@ -362,13 +363,13 @@
 							<div class="col-md-4">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Altura em (cm)</label>
-									<input type="text" class="form-control" name="alturaEmCm" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="alturaEmCm" id="exampleInputEmail1" placeholder="Altura">
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Peso</label>
-									<input type="text" class="form-control" name="peso" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="peso" id="exampleInputEmail1" placeholder="Peso">
 								</div>
 							</div>
 							<div class="col-4">
@@ -510,7 +511,7 @@
 						<br>
 						<div class="row">
 							<div class="col-3">
-							<button type="submit" class="btn btn-primary">Enviar</button>
+								<button type="submit" class="btn btn-primary">Enviar</button>
 
 							</div>
 							<div class="col-3">

@@ -1,9 +1,11 @@
 <?php
 
 /**import do phpmailer */
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
+
 /**import do phpmailer */
 
 /**import do autoload para envio de email */
@@ -14,14 +16,34 @@ require '../vendor/autoload.php';
 require_once('../util/Funcoes.php');
 /**import da classe funcoes */
 
-$mail = new PHPMailer(true);
-
 $funcoes = new Funcoes();
-$dataEmbarque = $funcoes::formatarDataBR($_POST['dataEmbarque']);
-var_dump($dataEmbarque);
-exit;
+$array = array(
+    "dataEmbarque"       => $funcoes::formatarDataBR($_POST['dataEmbarque']),
+    "nome"               => $_POST['nome'],
+    "checkBoxFinanceiro" => isset($_POST["checkBoxFinanceiro"]) ? $_POST['checkBoxFinanceiro'] : null,
+    "checkBoxCultural"   => isset($_POST["checkBoxCultural"]) ? $_POST["checkBoxCultural"] : null,
+    "especifique"        => isset($_POST["especifique"]) ? $_POST["especifique"] : "",
+    "checkBoxMasculino"  => isset($_POST["checkBoxMasculino"]) ? $_POST['checkBoxMasculino'] : null,
+    "checkBoxFeminino"   => isset($_POST["checkBoxFeminino"]) ? $_POST["checkBoxFeminino"] : null,
+    "idade"              => $_POST['idade'],
+    "descendencia"       => $_POST['descendencia'],
+    "rua"                => $_POST['rua'],
+    "cep"                => $_POST['cep'],
+    "cidade"             => $_POST['cidade'],
+    "estado"             => $_POST['estado'],
+    "telefone"           => $_POST['telefone'],
+    "email"              => $_POST['email'],
+    "rg"                 => $_POST['rg'],
+    "cpf"                => $_POST['cpf'],
+
+
+);
+
+var_dump($array);
+
 
 try {
+    $mail = new PHPMailer(true);
     $mail->CharSet = 'UTF-8';
     $mail->isSMTP();
     // $mail->SMTPDebug = 1; 
