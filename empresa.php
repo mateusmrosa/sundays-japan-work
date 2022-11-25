@@ -43,7 +43,7 @@
 
 			<div class="row text-center text-md-start py-2">
 				<div class="col p-relative bottom-5">
-					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Sobre-Nós</h1>
+					<h1 class="font-weight-bold text-color-dark text-10 mt-1 mb-0">Empresa</h1>
 				</div>
 			</div>
 		</div>

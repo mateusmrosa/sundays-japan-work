@@ -31,27 +31,10 @@ $funcoes = new Funcoes();
                     <div class="header-nav-features">
                         <a href="tel:0123456789" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold ms-1 me-3">
                             <i class="icon icon-phone text-4-5 me-2"></i>
-                            (18) 3222-4299
+                            (18) 3223-7080 | 99737-0033
                         </a>
                     </div>
-                    <!-- <div class="header-nav-features d-none d-md-block">
-                                <div class="header-nav-feature header-nav-features-search d-inline-flex align-items-center">
-                                    <a href="#" class="header-nav-features-toggle text-color-dark font-weight-semibold text-decoration-none ms-1" data-focus="headerSearch">
-                                        <i class="icons icon-magnifier header-nav-top-icon font-weight-semibold text-3-5 text-color-dark text-color-hover-primary font-weight-semibold top-3"></i>
-                                        Search
-                                    </a>
-                                    <div class="header-nav-features-dropdown header-nav-features-dropdown-mobile-fixed border-radius-0 top-10 right-0" id="headerTopSearchDropdown">
-                                        <form role="search" action="page-search-results.html" method="get">
-                                            <div class="simple-search input-group">
-                                                <input class="form-control text-1" id="headerSearch" name="q" type="search" value="" placeholder="Search...">
-                                                <button class="btn" type="submit">
-                                                    <i class="icons icon-magnifier header-nav-top-icon text-color-dark text-color-hover-primary top-2"></i>
-                                                </button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div> -->
+
                 </div>
             </div>
         </div>
@@ -102,17 +85,12 @@ $funcoes = new Funcoes();
                                     </nav>
                                 </div>
                             </div>
-                            <?php if ($funcoes::explodeUrl($_SERVER['SCRIPT_FILENAME']) != 'contato.php') { ?>
-                                <div>
-                                    <a href="contato.php" class="position-relative top-5 btn btn-outline btn-rounded btn-secondary text-2 font-weight-bold text-uppercase px-5 btn-py-2 mb-3">CONTATO</a>
-                                    <button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
-                                        <i class="fas fa-bars"></i>
-                                    </button>
-                                </div>
-                            <?php } else ?>
-                            <?php { ?>
-
-                            <?php } ?>
+                            <div>
+                                <a href="contato.php" class="position-relative top-5 btn btn-outline btn-rounded btn-secondary text-2 font-weight-bold text-uppercase px-5 btn-py-2 mb-3">CONTATO</a>
+                                <button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
+                                    <i class="fas fa-bars"></i>
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -128,7 +128,7 @@
 						<div class="col-lg-6 text-center appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="100">
 							<img width="90" height="90" src="img/demos/insurance/icons/casa.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary mb-3'}" />
 							<h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-4-5">Passagens aéreas para o Japão</h3>
-							<p class="text-3-5 px-lg-5 mx-lg-5">Providenciamos Passagens Aéreas com todas as companhias aéreas que fazem a rora para o Japão, passando pela Europa ou Oriente Médio.</p>
+							<p class="text-3-5 px-lg-5 mx-lg-5">Providenciamos Passagens Aéreas com todas as companhias que fazem a rota para o Japão, passando pela Europa ou Oriente Médio.</p>
 						</div>
 						<div class="col-lg-6 text-center appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="100">
 							<img width="90" height="90" src="img/demos/insurance/icons/casa.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary mb-3'}" />

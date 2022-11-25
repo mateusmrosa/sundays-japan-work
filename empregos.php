@@ -112,7 +112,8 @@
                                         <div class="card-body py-4 px-0">
                                             <h4 class="font-weight-bold text-5 text-color-hover-primary mb-2">Indústria de Autopeças</h4>
                                             <p class="text-3-5 mb-3">Na fabricação de peças automotivas há diversos setores, tais como: montagem, torno, inspeção, solda robótica, empacotamento, fundição, abastecimento de linha,
-                                                prensa manual e automática, pintura, colagem, montagem de bancos, carpete e teto, costura de bancos de carros, escapamento e tubulação de automóveis, peças e componentes de plástico de autos, fábrica de pneus(operação de máquina industrial), fábrica de rodas de ferro e de alumínio para autos, reciclagem de peças peças, e muitos outros tipos de serviços no setor. </p>
+                                                prensa manual e automática, pintura, colagem, montagem de bancos, carpete e teto, costura de bancos de carros, escapamento e tubulação de automóveis, peças e 
+                                                componentes de plástico de autos, fábrica de pneus(operação de máquina industrial), fábrica de rodas de ferro e de alumínio para autos, reciclagem de peças, e muitos outros tipos de serviços no setor. </p>
                                         </div>
                                     </div>
                                 </a>

@@ -124,6 +124,53 @@
 						</article>
 					</a>
 
+					<a href="https://drive.google.com/file/d/1PUj-0qgtM63UzX0g7DQWwVQfrghX7vAh/view" target="_blank">
+						<article class="mb-5">
+							<div class="card bg-transparent border-0">
+								<div class="card-body p-0 z-index-1">
+									<a href="https://drive.google.com/file/d/1PUj-0qgtM63UzX0g7DQWwVQfrghX7vAh/view" target="_blank" data-cursor-effect-hover="plus">
+										<img class="card-img-top rounded-0 mb-2" src="./img/banner/manual-empreendedor.png" alt="Sunday's Japan work">
+									</a>
+									<p class="text-uppercase text-color-default text-1 my-2">
+										<time pubdate datetime="2022-01-10">07 Nov 2022</time>
+										<span class="opacity-3 d-inline-block px-2">|</span>
+										Sunday's Japan Work
+									</p>
+									<div class="card-body p-0">
+										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="">Manual do Empreendedor brasileiro no Japão</a></h4>
+										<a href="https://drive.google.com/file/d/1PUj-0qgtM63UzX0g7DQWwVQfrghX7vAh/view" target="_blank" class="text-decoration-none custom-link-hover-effects">
+											Ver Mais
+										</a>
+									</div>
+								</div>
+							</div>
+						</article>
+					</a>
+
+					<a href="https://drive.google.com/file/d/1rmHSbkSDYvpzL-wFTUT1jVRYOstl_Kfm/view" target="_blank">
+						<article class="mb-5">
+							<div class="card bg-transparent border-0">
+								<div class="card-body p-0 z-index-1">
+									<a href="https://drive.google.com/file/d/1rmHSbkSDYvpzL-wFTUT1jVRYOstl_Kfm/view" target="_blank" data-cursor-effect-hover="plus">
+										<img class="card-img-top rounded-0 mb-2" src="./img/banner/seu-guia-japao.jpg" alt="Sunday's Japan work">
+									</a>
+									<p class="text-uppercase text-color-default text-1 my-2">
+										<time pubdate datetime="2022-01-10">07 Nov 2022</time>
+										<span class="opacity-3 d-inline-block px-2">|</span>
+										Sunday's Japan Work
+									</p>
+									<div class="card-body p-0">
+										<h4 class="card-title text-5 font-weight-bold pb-1 mb-2">
+											<a class="text-color-dark text-color-hover-primary text-decoration-none" href="">Seu guia no Japão</a>
+										</h4>
+										<a href="https://drive.google.com/file/d/1rmHSbkSDYvpzL-wFTUT1jVRYOstl_Kfm/view" target="_blank" class="text-decoration-none custom-link-hover-effects">
+											Ver Mais
+										</a>
+									</div>
+								</div>
+							</div>
+						</article>
+					</a>
 
 				</div>
 

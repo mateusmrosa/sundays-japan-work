@@ -159,12 +159,12 @@
 							<div class="col-6">
 								<label for="exampleInputEmail1" class="form-label">Descendência</label>
 								<select class="form-select" name="descendencia" aria-label="Default select example">
-									<option selected value="issei">Issei</option>
-									<option value="nissei">Nissei</option>
-									<option value="sansei">Sansei</option>
-									<option value="mestico">Mestiço</option>
-									<option value="dupla">Dupla</option>
-									<option value="naoDescendente">Não descendente</option>
+									<option selected value="Issei">Issei</option>
+									<option value="Nissei">Nissei</option>
+									<option value="Sansei">Sansei</option>
+									<option value="Mestiço">Mestiço</option>
+									<option value="Dupla">Dupla</option>
+									<option value="Não descendente">Não descendente</option>
 								</select>
 							</div>
 						</div>
@@ -233,10 +233,10 @@
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Estado Civil</label>
 								<select class="form-select" name="estadoCivil" aria-label="Default select example">
-									<option selected value="solteiro">Solteiro</option>
-									<option value="casado">Casado</option>
-									<option value="divorciado">Divorciado</option>
-									<option value="viuvo">Viúvo</option>
+									<option selected value="Solteiro">Solteiro</option>
+									<option value="Casado">Casado</option>
+									<option value="Divorciado">Divorciado</option>
+									<option value="Viúvo">Viúvo</option>
 								</select>
 							</div>
 							<div class="col-md-3">
@@ -257,8 +257,8 @@
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Filhos</label>
 								<select class="form-select" name="filhos" aria-label="Default select example">
-									<option selected value="sim">Sim</option>
-									<option value="nao">Não</option>
+									<option selected value="Sim">Sim</option>
+									<option value="Não">Não</option>
 								</select>
 							</div>
 							<div class="col-md-3">
@@ -271,14 +271,14 @@
 							<div class="col-md-3">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Idades Filhos</label>
-									<input type="text" class="form-control" name="idadesFilhos" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="text" class="form-control" name="idadeFilhos" id="exampleInputEmail1" aria-describedby="emailHelp">
 								</div>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Pretende leva-los?</label>
 								<select class="form-select" name="pretendeLevalos" aria-label="Default select example">
-									<option selected value="sim">Sim</option>
-									<option value="1" value="nao">Não</option>
+									<option selected value="Sim">Sim</option>
+									<option value="1" value="Não">Não</option>
 								</select>
 							</div>
 						</div>
@@ -287,14 +287,14 @@
 							<div class="col-6">
 								<label for="exampleInputEmail1" class="form-label">Visto</label>
 								<select class="form-select" name="visto" aria-label="Default select example">
-									<option selected value="aSolicitar">A solicitar</option>
-									<option value="1" value="jaComVisto">Já com visto</option>
+									<option selected value="A solicitar">A solicitar</option>
+									<option value="1" value="Já com visto">Já com visto</option>
 								</select>
 							</div>
 							<div class="col-md-6">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Validade</label>
-									<input type="date" class="form-control" name="validade" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="date" class="form-control" name="validadeASolicJaComVisto" id="exampleInputEmail1" aria-describedby="emailHelp">
 								</div>
 							</div>
 						</div>
@@ -302,14 +302,14 @@
 							<div class="col-6">
 								<label for="exampleInputEmail1" class="form-label">Situação</label>
 								<select class="form-select" name="situacao" aria-label="Default select example">
-									<option selected value="emAndamento">Em andamento</option>
-									<option value="reentrada">Reentrada</option>
+									<option selected value="Em andamento">Em andamento</option>
+									<option value="Reentrada">Reentrada</option>
 								</select>
 							</div>
 							<div class="col-md-6">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Validade</label>
-									<input type="date" name="validade" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="date" name="validadeEmAndaReentrada" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
 								</div>
 							</div>
 						</div>
@@ -317,30 +317,30 @@
 						<div class="row">
 							<div class="col-6">
 								<label for="exampleInputEmail1" class="form-label">Situação</label>
-								<select class="form-select" name="situacao" aria-label="Default select example">
-									<option selected value="issei">Issei</option>
-									<option value="permanente">Permanente</option>
+								<select class="form-select" name="situacaoIsseiPerma" aria-label="Default select example">
+									<option selected value="Issei">Issei</option>
+									<option value="Permanente">Permanente</option>
 								</select>
 							</div>
 							<div class="col-md-6">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Validade</label>
-									<input type="date" class="form-control" name="validade" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="date" class="form-control" name="validadeIsseiPerma" id="exampleInputEmail1" aria-describedby="emailHelp">
 								</div>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-6">
 								<label for="exampleInputEmail1" class="form-label">Situação</label>
-								<select class="form-select" name="situacao" aria-label="Default select example">
-									<option selected value="dupla">Dupla</option>
-									<option value="passaporte">Passaporte</option>
+								<select class="form-select" name="situacaoDuplaPass" aria-label="Default select example">
+									<option selected value="Dupla">Dupla</option>
+									<option value="Passaporte">Passaporte</option>
 								</select>
 							</div>
 							<div class="col-md-6">
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Validade</label>
-									<input type="date" class="form-control" name="validade" id="exampleInputEmail1" aria-describedby="emailHelp">
+									<input type="date" class="form-control" name="validadeDuplaPass" id="exampleInputEmail1" aria-describedby="emailHelp">
 								</div>
 							</div>
 						</div>
@@ -375,8 +375,8 @@
 							<div class="col-4">
 								<label for="exampleInputEmail1" class="form-label">Calçado</label>
 								<select class="form-select" name="calcado" aria-label="Default select example">
-									<option selected value="destro">Destro</option>
-									<option value="canhoto">Canhoto</option>
+									<option selected value="Destro">Destro</option>
+									<option value="Canhoto">Canhoto</option>
 								</select>
 							</div>
 						</div>
@@ -386,22 +386,22 @@
 								<label for="exampleInputEmail1" class="form-label">Pressão</label>
 								<select class="form-select" name="pressao" aria-label="Default select example">
 									<option selected value="normal">Normal</option>
-									<option value="alta">Alta</option>
-									<option value="baixa">Baixa</option>
+									<option value="Alta">Alta</option>
+									<option value="Baixa">Baixa</option>
 								</select>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Tatuagem</label>
 								<select class="form-select" name="tatuagem" aria-label="Default select example">
-									<option selected value="sim">Sim</option>
-									<option value="nao">Não</option>
+									<option selected value="Sim">Sim</option>
+									<option value="Não">Não</option>
 								</select>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Visível</label>
-								<select class="form-select" name="visivelTatuagem" aria-label="Default select example">
-									<option selected value="visivel">Visível</option>
-									<option value="naoVisivel">Não Visível</option>
+								<select class="form-select" name="tatooVisivel" aria-label="Default select example">
+									<option selected value="Visível">Visível</option>
+									<option value="Não Visível">Não Visível</option>
 								</select>
 							</div>
 							<div class="col-md-3">
@@ -415,11 +415,11 @@
 						<div class="row">
 							<div class="col-4">
 								<label for="exampleInputEmail1" class="form-label">Visão</label>
-								<select class="form-select" name="Visao" aria-label="Default select example">
-									<option selected value="nomal">Normal</option>
-									<option value="miopia">Miopia</option>
-									<option value="astigmatismo">Astigmatismo</option>
-									<option value="hipermetropia">Hipermetropia</option>
+								<select class="form-select" name="visao" aria-label="Default select example">
+									<option selected value="Normal">Normal</option>
+									<option value="Miopia">Miopia</option>
+									<option value="Astigmatismo">Astigmatismo</option>
+									<option value="Hipermetropia">Hipermetropia</option>
 								</select>
 							</div>
 							<div class="col-4">
@@ -441,39 +441,39 @@
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Língua japonesa - Fala:</label>
 								<select class="form-select" name="linguaJaponesaFala" aria-label="Default select example">
-									<option selected value="falaNada">Nada</option>
-									<option value="falaCumprimentos">Cumprimentos</option>
-									<option value="1" value="falaFrasesEPalavras">Frases/Palavras</option>
-									<option value="1" value="falaDiaDia">Dia-a-dia</option>
-									<option value="1" value="falaFluente">Fluente</option>
+									<option selected value="Nada">Nada</option>
+									<option value="Cumprimentos">Cumprimentos</option>
+									<option value="Frases/Palavras">Frases/Palavras</option>
+									<option value="Dia-a-dia">Dia-a-dia</option>
+									<option value="Fluente">Fluente</option>
 								</select>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Entende: </label>
 								<select class="form-select" name="linguaJaponesaEntende" aria-label="Default select example">
-									<option selected value="entendenNada">Nada</option>
-									<option value="entendeCumprimentos">Cumprimentos</option>
-									<option value="entendeFrasesEPalavras">Frases/Palavras</option>
-									<option value="entendeDiaDia">Dia-a-dia</option>
-									<option value="entendeFluente">Fluente</option>
+									<option selected value="Nada">Nada</option>
+									<option value="Cumprimentos">Cumprimentos</option>
+									<option value="Frases/Palavras">Frases/Palavras</option>
+									<option value="Dia-a-dia">Dia-a-dia</option>
+									<option value="Fluente">Fluente</option>
 								</select>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Mas: </label>
 								<select class="form-select" name="mas" aria-label="Default select example">
-									<option selected value="masNada">Nada</option>
-									<option value="masHiragana">Hiragana</option>
-									<option value="masKatakana">Katakana</option>
-									<option value="masKanji">Kanji</option>
+									<option selected value="Nada">Nada</option>
+									<option value="Hiragana">Hiragana</option>
+									<option value="Katakana">Katakana</option>
+									<option value="Kanji">Kanji</option>
 								</select>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Escreve: </label>
 								<select class="form-select" name="linguaJaponesaEscreve" aria-label="Default select example">
-									<option selected value="escreveNada">Nada</option>
-									<option value="escreveHiragana">Hiragana</option>
-									<option value="escreveKatakana">Katakana</option>
-									<option value="escreveKanji">Kanji</option>
+									<option selected value="Nada">Nada</option>
+									<option value="Hiragana">Hiragana</option>
+									<option value="Katakana">Katakana</option>
+									<option value="Kanji">Kanji</option>
 								</select>
 							</div>
 						</div>
@@ -482,15 +482,15 @@
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Carteira de Motorista:</label>
 								<select class="form-select" name="cartaMotorista" aria-label="Default select example">
-									<option selected value="cartaMotoSim">Sim</option>
-									<option value="cartaMotoNao">Não</option>
+									<option selected value="Sim">Sim</option>
+									<option value="Não">Não</option>
 								</select>
 							</div>
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Onde:</label>
 								<select class="form-select" name="cartaMotoOnde" aria-label="Default select example">
-									<option selected value="cartaMotoOndeSim">Brasil</option>
-									<option value="cartaMotoOndeNao">Japão</option>
+									<option selected value="Brasil">Brasil</option>
+									<option value="Japão">Japão</option>
 								</select>
 							</div>
 							<div class="col-3">
@@ -502,8 +502,8 @@
 							<div class="col-3">
 								<label for="exampleInputEmail1" class="form-label">Anda de bicicleta?</label>
 								<select class="form-select" name="andaBicicleta" aria-label="Default select example">
-									<option selected value="andaBicicletaSim">Sim</option>
-									<option value="andaBicicletaNao">Não</option>
+									<option selected value="Sim">Sim</option>
+									<option value="Não">Não</option>
 								</select>
 							</div>
 

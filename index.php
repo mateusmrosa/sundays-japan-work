@@ -11,7 +11,7 @@
 
 					<h2 class="text-color-dark font-weight-bold text-12 line-height-3 mb-2 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100">Empregos no Japão</h2>
 					<p class="text-color-dark text-4 font-weight-medium mb-4-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100">Estabilidade, assistência e segurança, em diversas atividades e localidades japonesas. </p>
-					<a href="#" class="btn btn-primary btn-rounded border-0 font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100">CONTATO</a>
+					<a href="./contato.php" class="btn btn-primary btn-rounded border-0 font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100">CONTATO</a>
 
 				</div>
 			</div>
@@ -83,7 +83,6 @@
 				</div>
 			</div>
 			<div class="row justify-content-center gy-5 mb-5">
-
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27656376.14738153!2d118.98948387047402!3d32.20362494302724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34674e0fd77f192f%3A0xf54275d47c665244!2zSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1666620272390!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 

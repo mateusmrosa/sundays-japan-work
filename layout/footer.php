@@ -47,7 +47,7 @@
                     </li>
                     <li class="d-flex align-items-center mb-4">
                         <i class="icon icon-phone text-color-dark text-5 font-weight-bold position-relative top-1 me-3-5"></i>
-                        <a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">(18) 3222-4299</a>
+                        <a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-4-5">(18) 3223-7080 | 99737-0033</a>
                     </li>
                 </ul>
                 <ul class="social-icons social-icons-clean social-icons-medium">
